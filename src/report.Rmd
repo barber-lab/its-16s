@@ -1,0 +1,116 @@
+---
+title: "Report: ITS-16S"
+subtitle: "Automated and comprehensive summary of the analysis"
+author: "Daniel Loos"
+date: "`r {date()}`"
+output:
+  html_document:
+    css: report.css
+    dev: png
+    toc: true
+    toc_depth: 4
+theme: united
+df_print: kable
+---
+
+```{r setup, echo = FALSE, warning = FALSE}
+knitr::opts_chunk$set(
+  fig.width = 15,
+  fig.height = 10,
+
+  # show output
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+
+  error = TRUE, # do not stop on error and show error message instead
+  cache = FALSE, # ensure to find all external pointers
+  root.dir = here::here()
+)
+```
+
+```{r setup2}
+library(knitr)
+library(kableExtra)
+library(pander)
+
+setwd(here::here())
+source("src/defaults.R")
+```
+
+## Material and methods
+
+### Samples
+
+```{r}
+loadd(abundances)
+loadd(samples)
+loadd(bioprojects)
+
+abundance <-
+  abundances %>%
+  filter(norm_method == "raw") %>%
+  pull(data) %>%
+  first()
+
+
+bioprojects_count_tbl <-
+  samples %>%
+  left_join(bioprojects) %>%
+  group_by(bioproject_id, bioproject_title) %>%
+  count() %>%
+  rename(mapped = n) %>%
+  left_join(count_abundant_samples(abundance, samples, bioprojects, samples_grouping = "bioproject_id")) %>%
+  replace_na(list(abundant = 0, mapped = 0)) %>%
+  arrange(-abundant)
+
+total_samples <-
+  bioprojects_count_tbl %>%
+  ungroup() %>%
+  dplyr::summarize(mapped = sum(mapped), abundant = sum(abundant)) %>%
+  as.list()
+```
+
+- Total number of bioprojects: `r {bioprojects_count_tbl %>% nrow()}`
+- Total number of samples:
+  - Mapped: `r {total_samples$mapped}` (with mapped pairs of bacterial and fungal experiment accessions)
+  - Abundant: `r {total_samples$abundant}` (passed QC and end up in the abundance table)
+
+#### Samples by bioproject
+
+```{r}
+bioprojects_count_tbl %>%
+  kable() %>%
+  scroll_box(height = "500px")
+```
+
+#### Samples by environment group
+
+```{r, out.width="70%"}
+enviornments_count_tbl <-
+  samples %>%
+  group_by(environment_group) %>%
+  count() %>%
+  rename(mapped = n) %>%
+  left_join(count_abundant_samples(abundance, samples, bioprojects, samples_grouping = "environment_group")) %>%
+  replace_na(list(abundant = 0, mapped = 0)) %>%
+  arrange(-abundant)
+
+enviornments_count_tbl %>%
+  filter(!is.na(environment_group)) %>%
+  pivot_longer(c("mapped", "abundant")) %>%
+  ggplot(aes(name, value, fill = environment_group)) +
+  geom_bar(stat = "identity") +
+  scale_fill_environment_group() +
+  scale_y_continuous(expand = c(0, 0)) +
+  labs(y = "Samples", x = "Stage")
+```
+
+### Prevalence
+
+**Figure 1:**
+**A:** Samples passed QC by location.
+**B:** Fungal and bacterial genera present in different enviornments.
+
+![](../results/fig1_prevalence.png)
+

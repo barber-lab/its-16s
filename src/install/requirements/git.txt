@@ -1,0 +1,11 @@
+# devtools packages to install and load from Git. One per line
+# e.g. https://github.com/hadley/stringr.git
+# git://github.com is not supported anymore
+
+https://github.com/cozygene/FEAST
+https://github.com/erocoar/gghalves
+https://github.com/ropensci/drake
+https://github.com/stevenpawley/recipeselectors
+https://github.com/yanlinlin82/ggvenn
+https://github.com/zdk123/SpiecEasi
+https://github.com/hadley/lvplot

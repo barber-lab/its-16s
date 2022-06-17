@@ -1,0 +1,4 @@
+# Bioconductor packages to install and load. One per line
+
+3.11/phyloseq
+3.12/ANCOMBC
