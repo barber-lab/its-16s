@@ -13,7 +13,7 @@ Microbiome engineering is a fast-evolving area with relevance for human health, 
 ## Get Started
 
 Source code is stored in the directory [`src`](src).
-This workflow starts with a [nextflow](https://www.nextflow.io/ pipeline to retrieve taxon abundance profiles in directory [`src/its-16s-nf`](src/its-16s-nf).
+This workflow starts with a [nextflow](https://www.nextflow.io/) pipeline to retrieve taxon abundance profiles in directory [`src/its-16s-nf`](src/its-16s-nf).
 Then, a [drake](https://docs.ropensci.org/drake/) pipeline is used for subsequent statistical analysis and visualization in directory [`src/plans`](src/plans).
 The main entry point for this analysis is the [`Makefile`](Makefile) providing shell commands `make build` for building the [docker image](Dockerfile) and `make analyse` to execute the pipeline.
 Briefly, R packages were installed using script [`src/install/install.R`](src/install/install.R).
