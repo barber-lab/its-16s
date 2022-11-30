@@ -2,9 +2,9 @@
 
 This repository provides the code required to reproduce the analyses of the following publication:
 
-Daniel Loos, Ailton Pereira da Costa Filho, Amelia E. Barber, Gianni Panagiotou: A Global Survey of Host, Aquatic, and Soil Microbiomes Reveals Ecological Properties Shared between Bacterial and Fungal Generalists (2022). In review
+Daniel Loos, Ailton Pereira da Costa Filho, Amelia E. Barber, Gianni Panagiotou: A Global Survey of Host, Aquatic, and Soil Microbiomes Reveals Ecological Properties Shared between Bacterial and Fungal Generalists (2022). bioRxiv. https://doi.org/10.1101/2022.11.15.515575.
 
-Correspondence: gianni.panagiotou@leibniz-hki.de
+Correspondence: gianni.panagiotou@leibniz-hki.de or amelia.barber@uni-jena.de
 
 ## Abstract
 
