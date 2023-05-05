@@ -201,23 +201,27 @@ get_generalists_plots_plan <- function() {
           ) %>%
           deframe()
 
+          pcoa <- wrap_plots(
+            pluck(kingdom_env_habitat_ordination_plt, 1,1) + labs(tag = "A"),
+            pluck(kingdom_env_habitat_ordination_plt, 1,2) + labs(tag = "")
+          )
+
         wrap_plots(
-          collection_times_plt + guides(fill = FALSE) + labs(tag = "A"),
-          rarefactions_bioproject_id_plt + labs(tag = "B"),
-          worldmap_plt + labs(tag = "C"),
+          pcoa,
+          worldmap_plt + labs(tag = "B"),
+          rarefactions_bioproject_id_plt + labs(tag = "C"),
           wrap_plots(
             prevalences_venn_plts$Bacteria + facet_wrap(~"Bacteria") + guides(fill = FALSE) + labs(tag = "D"),
             prevalences_venn_plts$Fungi + facet_wrap(~"Fungi") + guides(fill = FALSE)
           ),
           common_unique_taxa_counts_per_sample_subset_plts$Bacteria + labs(tag = "E"),
           common_unique_taxa_counts_per_sample_subset_plts$Fungi + labs(tag = "F"),
-          common_unique_abundances$Bacteria + facet_wrap(~"Bacteria") + labs(tag = "G"),
-          common_unique_abundances$Fungi + facet_wrap(~"Fungi") + labs(tag = "H"),
+          common_unique_abundances$Bacteria + labs(tag = "G"),
+          common_unique_abundances$Fungi + labs(tag = "H"),
           ncol = 2,
-          widths = c(1, 1),
-          heights = c(2.5, 2, 2, 2.5),
-          guides = "collect"
-        )
+          guides = "collect",
+          widths = c(1,1)
+          )
       },
       hpc = FALSE
     ),
