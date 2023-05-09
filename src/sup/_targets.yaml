@@ -1,0 +1,23 @@
+main:
+  store: cache/0r-targets
+  script: src/_targets.R
+
+aln-metrics:
+  store: cache/00-aln-metrics
+  script: src/00-aln-metrics/_targets.R
+
+generalist_specialist_genome_metadata:
+  store: cache/01-r-generalist_specialist_genome_metadata
+  script: src/03-generalists-specialists-genome/_targets.R
+
+generalist_specialist_genome_gff:
+  store: cache/01-r-generalist_specialist_genome_gff
+  script: src/03-generalists-specialists-genome-with-gff/_targets.R
+  
+primers_effect:
+  store: cache/02-r-04-quantify-primers-effect
+  script: src/04-quantify-primers-effect/_targets.R
+  
+amr_detection:
+  store: cache/01-r-07-amr
+  script: src/07-amr/_targets.R

@@ -1,0 +1,59 @@
+generalist
+1174-901-12
+Acidibacter
+Acidovorax
+Acinetobacter
+Afipia
+Allorhizobium
+Neorhizobium
+Pararhizobium
+Rhizobium
+Aspergillus
+Aureobasidium
+Bacillus
+Bacteroides
+Bradyrhizobium
+Brevundimonas
+Burkholderia
+Caballeronia
+Paraburkholderia
+Candidatus Solibacter
+Caulobacter
+Christensenellaceae R-7 group
+Chryseobacterium
+Clostridium sensu stricto 1
+Comamonas
+Cortinarius
+Curtobacterium
+Desulfovibrio
+Enterobacter
+Enterococcus
+Escherichia
+Shigella
+Flavobacterium
+Gemmatimonas
+Lachnoclostridium
+Lachnospiraceae NK4A136 group
+Lactobacillus
+Lactococcus
+Leifsonia
+Lysobacter
+Malassezia
+Massilia
+Methylobacterium
+Nocardioides
+Noviherbaspirillum
+Novosphingobium
+Pajaroellobacter
+Phenylobacterium
+"Prevotella 9"
+Pseudomonas
+Pseudoxanthomonas
+Ralstonia
+RB41
+Ruminococcaceae UCG-014
+Shewanella
+Sphingomonas
+Stenotrophomonas
+Streptomyces
+Variovorax

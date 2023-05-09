@@ -1,0 +1,7 @@
+name: vextractor
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - hmmer
+  - perl

@@ -1,0 +1,9 @@
+name: r-base
+channels:
+  - r
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies:
+  - r-base=4.1.3
+  - zeromq

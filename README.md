@@ -32,3 +32,13 @@ The methods section of the paper provides further details.
 | `selected_generalists_specialists`     | Generalists and specialists of the meta study                                                                |
 | `generalists_common_coabundance_graph` | Co-abundances common in most environments                                                                    |
 | `fig6_heatmap`                         | Abundance heatmap of the paper                                                                               |
+
+## Supplementary analysis
+
+The get started section describe analysis done with R Drake. Here we describe extra analysis performed with R Targets and Snakemake. They are available under [`src/sup`](src/sup). They include:
+
+| Task                                      | Description                                                                               |
+|-------------------------------------------|-------------------------------------------------------------------------------------------|
+|Primer detection                           | 16S and ITS primers for bioprojects without publication were discovered based on alignment|
+|Generalist and specialists BGCs            | Fungal and Bacterial BGCs were identified with antiSMASH                                  |
+|Bacterial generalists and specialists AMR  | Antimicrobial Resistance Genes identification                                             |
