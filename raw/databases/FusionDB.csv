@@ -1,0 +1,1375 @@
+,Taxonomic ID,Organism Name,Functional Repertoire Size,HabitatPreference,TemperaturePreference,OxygenPreference
+uid58167,329726,Acaryochloris marina MBIC11017,4548,Marine,Mesophile,Aerobe
+uid59279,634452,Acetobacter pasteurianus IFO 3283 01,2067,,,Aerobe
+uid51423,574087,Acetohalobium arabaticum DSM 5501,1810,Fresh water,Mesophile,Anaerobe
+uid58901,441768,Acholeplasma laidlawii PG 8A,1213,"Multi (Host, Soil, Wastewater)",Mesophile,Facultative
+uid59899,762376,Achromobacter xylosoxidans A8,3885,Host,,Aerobe
+uid43471,591001,Acidaminococcus fermentans DSM 20731,1677,"Host (Host, Intestinal tract)",Mesophile,Anaerobe
+uid74445,568816,Acidaminococcus intestini RyC MR95,1911,,,
+uid59215,525909,Acidimicrobium ferrooxidans DSM 10331,1648,Fresh water,Thermophile,Aerobe
+uid58447,349163,Acidiphilium cryptum JF 5,2379,"Fresh water (Acid mine drainage, Fresh water, Hydrothermal vent)",Mesophile,Aerobe
+uid63345,926570,Acidiphilium multivorum AIU301,2532,,,
+uid70791,990288,Acidithiobacillus caldus SM 1,2217,,Thermophile,
+uid67387,743299,Acidithiobacillus ferrivorans SS3,2496,,Psychrophile (Psychrotolerant),
+uid57649,243159,Acidithiobacillus ferrooxidans ATCC 23270,2590,Other (Acid mine drainage),Mesophile,Aerobe (Obligate aerobe)
+uid58613,380394,Acidithiobacillus ferrooxidans ATCC 53993,2187,Other (Acid mine drainage),Mesophile,Aerobe (Obligate aerobe)
+uid59127,240015,Acidobacterium capsulatum ATCC 51196,2767,"Multi (Acid mine drainage, Fresh water, Soil)",Mesophile,Aerobe
+uid50551,940615,Acidobacterium MP5ACTX9,3018,,,
+uid58501,351607,Acidothermus cellulolyticus 11B,1808,"Fresh water (Fresh water, Hot spring)",Thermophile,Aerobe
+uid42497,643561,Acidovorax avenae ATCC 19860,3385,Host,Mesophile,Aerobe
+uid58429,397945,Acidovorax citrulli AAC00 1,3434,Host,Mesophile,Aerobe
+uid59233,535289,Acidovorax ebreus TPSY,2667,Fresh water,Mesophile,Facultative
+uid58427,232721,Acidovorax JS42,2926,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid61597,62977,Acinetobacter ADP1,2638,"Multi (Food, Fresh water, Human skin, Soil, Host)",Mesophile,Aerobe
+uid59083,480119,Acinetobacter baumannii AB0057,2855,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid59271,557600,Acinetobacter baumannii AB307 0294,2671,Host,Mesophile,Aerobe
+uid58765,405416,Acinetobacter baumannii ACICU,2826,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58731,400667,Acinetobacter baumannii ATCC 17978,2460,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid61637,509173,Acinetobacter baumannii AYE,2768,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid61601,509170,Acinetobacter baumannii SDF,2232,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid50119,436717,Acinetobacter DR1,2966,Soil,Mesophile,Aerobe
+uid58891,434271,Actinobacillus pleuropneumoniae serovar 3 JL03,1748,"Host (Host, Respiratory tract)",Mesophile,Facultative
+uid58789,416269,Actinobacillus pleuropneumoniae serovar 5b L20,1724,"Host (Host, Respiratory tract)",Mesophile,Facultative
+uid59231,537457,Actinobacillus pleuropneumoniae serovar 7 AP76,1796,"Host (Host, Respiratory tract)",Mesophile,Facultative
+uid58247,339671,Actinobacillus succinogenes 130Z,1774,"Host (Bovine rumen, Host)",Mesophile,Facultative
+uid58951,446462,Actinosynnema mirum DSM 43827,4645,Soil,Mesophile,Aerobe
+uid64757,866775,Aerococcus urinae ACS 120 V Col10a,1370,"Human (Host, Human vaginal microflora)",Mesophile,Anaerobe
+uid58617,380703,Aeromonas hydrophila ATCC 7966,3224,"Multi (Food, Fresh water, Fresh water, Host, Wastewater)",Mesophile,Facultative
+uid58631,382245,Aeromonas salmonicida A449,3175,"Multi (Fresh water, Host)",Psychrophile,Facultative
+uid66323,998088,Aeromonas veronii B565,3159,Other (Sediment),Mesophile,Aerobe
+uid41333,668336,Aggregatibacter actinomycetemcomitans D11S 1,1832,"Host (Oral microflora, Host)",Mesophile,Facultative
+uid59407,634176,Aggregatibacter aphrophilus NJ8700,1936,"Host (Host, Oral microflora)",Mesophile,Facultative
+uid63403,861208,Agrobacterium H13 3,2308,Host,,
+uid58269,311403,Agrobacterium radiobacter K84,2923,"Host (Host, Root nodule)",Mesophile,Aerobe
+uid57865,176299,Agrobacterium tumefaciens C58,2322,"Host (Host, Root nodule)",Mesophile,Aerobe
+uid58249,311402,Agrobacterium vitis S4,2587,"Host (Host, Root nodule)",Mesophile,Aerobe
+uid58985,349741,Akkermansia muciniphila ATCC BAA 835,1833,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid58169,393595,Alcanivorax borkumensis SK2,2304,Marine,Mesophile,Aerobe
+uid49953,596153,Alicycliphilus denitrificans BC,2973,,Mesophile,Facultative
+uid66307,596154,Alicycliphilus denitrificans K601,3010,,Mesophile,Facultative
+uid59199,521098,Alicyclobacillus acidocaldarius DSM 446,2284,"Other (Hot spring, Aquatic)",Thermophile,Aerobe
+uid59251,316275,Aliivibrio salmonicida LFI1238,2171,"Multi (Fresh water, Host)",Psychrophile,Facultative
+uid58467,187272,Alkalilimnicola ehrlichii MLHE 1,2383,Fresh water,Mesophile,Anaerobe
+uid58171,293826,Alkaliphilus metalliredigens QYMF,3349,Other (Ponds),Mesophile,Anaerobe
+uid58495,350688,Alkaliphilus oremlandii OhILAs,2244,"Fresh water (Fresh water, Sediment)",Mesophile,Anaerobe
+uid46083,572477,Allochromatium vinosum DSM 180,2438,"Fresh water (Fresh water, Sediment)",Mesophile,Anaerobe
+uid58251,314275,Alteromonas macleodii Deep ecotype,2994,"Marine (Deep sea, Marine)",Mesophile,Aerobe
+uid67349,715451,Alteromonas SN2,3571,,,
+uid47083,572547,Aminobacterium colombiense DSM 12261,1532,"Fresh water (Fresh water, Wastewater)",Mesophile,Anaerobe (Obligate anaerobe)
+uid41053,429009,Ammonifex degensii KC4,1675,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe
+uid50565,749927,Amycolatopsis mediterranei U32,5367,,,
+uid67253,443218,Amycolicicoccus subflavus DQS3 9A1,3364,Soil,,
+uid58043,240292,Anabaena variabilis ATCC 29413,3592,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid59219,525919,Anaerococcus prevotii DSM 20548,1456,"Host (Host, Mouth microflora, Skin microflora, Vagina microflora)",Mesophile,Anaerobe
+uid62245,926569,Anaerolinea thermophila UNI 1,2478,Fresh water,Thermophile,
+uid58989,455488,Anaeromyxobacter dehalogenans 2CP 1,3518,"Soil (Sediment, Soil)",Mesophile,Anaerobe
+uid58135,290397,Anaeromyxobacter dehalogenans 2CP C,3399,"Soil (Soil, Terrestrial)",Mesophile,Anaerobe
+uid58755,404589,Anaeromyxobacter Fw109 5,3427,"Soil (Terrestrial, Soil)",Mesophile,Anaerobe
+uid58953,447217,Anaeromyxobacter K,3472,Soil,Mesophile,Anaerobe
+uid42155,574556,Anaplasma centrale Israel,825,Host,Mesophile,Aerobe
+uid58577,320483,Anaplasma marginale Florida,832,Host,Mesophile,Aerobe
+uid57629,234826,Anaplasma marginale Maries,838,Host,Mesophile,Aerobe
+uid57951,212042,Anaplasma phagocytophilum HZ,1066,Host,Mesophile,Aerobe
+uid59135,491915,Anoxybacillus flavithermus WK1,2329,"Fresh water (Fresh water, Hot spring)",Thermophile,Facultative
+uid57765,224324,Aquifex aeolicus VF5,1357,"Marine (Hot spring, Marine)",Thermophile (Hyperthermophile),Facultative
+uid49489,644284,Arcanobacterium haemolyticum DSM 20595,1490,"Host (Blood, Host, Pharyngeal mucosa)",Mesophile,Anaerobe
+uid58557,367737,Arcobacter butzleri RM4018,1919,"Multi (Fresh water, Host, Marine)",Mesophile,Aerobe
+uid49001,572480,Arcobacter nitrofigilis DSM 7299,2503,Host,Mesophile,Aerobe (Microaerophilic)
+uid58231,76114,Aromatoleum aromaticum EbN1,3134,"Multi (Host, Soil, Terrestrial)",Mesophile,Facultative
+uid53509,861360,Arthrobacter arilaitensis Re117,2603,Other (Dairy isolate),Mesophile,Aerobe
+uid58109,290340,Arthrobacter aurescens TC1,2952,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid58969,452863,Arthrobacter chlorophenolicus A6,2866,Soil,Mesophile,Aerobe
+uid58141,290399,Arthrobacter FB24,2991,Soil,Mesophile,Aerobe
+uid63629,930171,Arthrobacter phenanthrenivorans Sphe3,2812,Soil,Mesophile,Aerobe
+uid58297,322098,Aster yellows witches broom phytoplasma AYWB,428,Host,Mesophile,Aerobe
+uid55641,573065,Asticcacaulis excentricus CB 48,1958,Fresh water,Mesophile,Aerobe
+uid59195,521095,Atopobium parvulum DSM 20469,1196,"Human (Host, Human airways, Oral microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid61603,62928,Azoarcus BH72,3056,"Multi (Host, Obligate endophyte, Soil)",Mesophile,Facultative
+uid58905,438753,Azorhizobium caulinodans ORS 571,3279,Host,Mesophile,
+uid46085,137722,Azospirillum B510,2261,"Soil (Rhizosphere, Soil, Terrestrial)",Mesophile,Facultative
+uid57597,322710,Azotobacter vinelandii DJ,3622,Soil,Mesophile,Aerobe
+uid53535,692420,Bacillus amyloliquefaciens DSM 7,3009,Soil,Mesophile,Aerobe
+uid58271,326423,Bacillus amyloliquefaciens FZB42,2849,"Soil (Rhizosphere-colonizing, Soil, Terrestrial)",Mesophile,Aerobe
+uid59385,592021,Bacillus anthracis A0248,3854,Host,Mesophile,Facultative
+uid57909,198094,Bacillus anthracis Ames,4031,Soil,Mesophile,Aerobe
+uid58083,261594,Bacillus anthracis Ames Ancestor,3978,"Multi (Soil, Host)",Mesophile,Facultative
+uid59303,568206,Bacillus anthracis CDC 684,4060,"Multi (Soil, Host)",Mesophile,Aerobe
+uid58091,260799,Bacillus anthracis Sterne,3824,Soil,Mesophile,Facultative
+uid59887,720555,Bacillus atrophaeus 1942,3289,Soil,Mesophile,Facultative
+uid43329,649639,Bacillus cellulosilyticus DSM 2522,3414,Soil,Mesophile,Facultative
+uid59299,572264,Bacillus cereus 03BB102,4046,"Multi (Soil, Host)",Mesophile,Facultative
+uid58753,405534,Bacillus cereus AH187,4052,"Multi (Host, Soil)",Mesophile,Facultative
+uid58751,405535,Bacillus cereus AH820,4065,"Multi (Soil, Host)",Mesophile,Facultative
+uid57673,222523,Bacillus cereus ATCC 10987,4250,"Multi (Dairy isolate, Soil, Host)",Mesophile,Facultative
+uid57975,226900,Bacillus cereus ATCC 14579,3886,"Multi (Soil, Host)",Mesophile,Facultative
+uid58757,405532,Bacillus cereus B4264,4051,"Multi (Host, Soil)",Mesophile,Facultative
+uid50615,637380,Bacillus cereus biovar anthracis CI,3805,"Multi (Soil, Host)",Mesophile,Aerobe
+uid58103,288681,Bacillus cereus E33L,3790,"Multi (Host, Soil)",Mesophile,Facultative
+uid58759,405531,Bacillus cereus G9842,4042,"Multi (Soil, Host)",Mesophile,Facultative
+uid58529,361100,Bacillus cereus Q1,3865,"Soil (Oil fields, Soil)",Mesophile,Facultative
+uid58237,66692,Bacillus clausii KSM K16,3040,Soil,Mesophile,Aerobe
+uid68053,941639,Bacillus coagulans 2 6,2405,Soil,Thermophile,Facultative
+uid54335,345219,Bacillus coagulans 36D1,2585,Soil,Thermophile (Thermotolerant),Facultative
+uid58317,315749,Bacillus cytotoxicus NVH 391 98,3026,"Soil (Soil, Terrestrial)",Psychrophile (Psychrotolerant),Facultative
+uid57791,272558,Bacillus halodurans C 125,3127,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid58097,279010,Bacillus licheniformis ATCC 14580,3229,"Multi (Soil, Host)",Mesophile,Facultative
+uid58199,279010,Bacillus licheniformis ATCC 14580,3189,"Multi (Soil, Host)",Mesophile,Facultative
+uid48371,592022,Bacillus megaterium DSM319,3694,Soil,Mesophile,Facultative
+uid15862,545693,Bacillus megaterium QM B1551,3720,Soil,Mesophile,Aerobe
+uid45847,398511,Bacillus pseudofirmus OF4,3140,"Soil (Soil, Terrestrial)",Mesophile,Facultative
+uid59017,315750,Bacillus pumilus SAFR 032,2914,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid49513,439292,Bacillus selenitireducens MLS10,2547,Fresh water,Mesophile,Facultative
+uid57675,224308,Bacillus subtilis 168,3250,Soil,Mesophile,Facultative
+uid62463,936156,Bacillus subtilis BSn5,3230,"Multi (Plants, Soil, Host)",Mesophile,Facultative
+uid73967,1052585,Bacillus subtilis spizizenii TU B 10,3294,,,
+uid51879,655816,Bacillus subtilis spizizenii W23,3155,Soil,Mesophile,Facultative
+uid58795,412694,Bacillus thuringiensis Al Hakam,3460,"Multi (Host, Soil)",Mesophile,Facultative
+uid49135,714359,Bacillus thuringiensis BMB171,3775,Host,Mesophile,Aerobe (Microaerophilic)
+uid58089,281309,Bacillus thuringiensis serovar konkukian 97 27,3742,"Multi (Host, Soil)",Mesophile,Facultative
+uid48361,562970,Bacillus tusciae DSM 2912,2370,,Thermophile,Aerobe
+uid58315,315730,Bacillus weihenstephanensis KBAB4,3845,Soil,Psychrophile (Psychrotolerant),Facultative
+uid57639,272559,Bacteroides fragilis NCTC 9343,3158,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid58195,295405,Bacteroides fragilis YCH46,3474,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid62135,693979,Bacteroides helcogenes P 36 108,2597,Host,Mesophile,Anaerobe
+uid63269,667015,Bacteroides salanitronis DSM 18170,2715,Host,Mesophile,Anaerobe
+uid62913,226186,Bacteroides thetaiotaomicron VPI 5482,3278,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid58253,435590,Bacteroides vulgatus ATCC 8482,2922,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid58533,360095,Bartonella bacilliformis KC583,1121,"Host (Host, Blood)",Mesophile,Aerobe
+uid62131,696125,Bartonella clarridgeiae 73,1159,Host,Mesophile,Aerobe
+uid59405,634504,Bartonella grahamii as4aup,1268,"Host (Blood, Host)",Mesophile,Aerobe
+uid57745,283166,Bartonella henselae Houston 1,1188,Host,Mesophile,Aerobe
+uid57635,283165,Bartonella quintana Toulouse,1010,"Host (Gut of the body louse, Host)",Mesophile,Aerobe
+uid59129,382640,Bartonella tribocorum CIP 105476,1307,Host,Mesophile,Aerobe
+uid58111,374463,Baumannia cicadellinicola Hc Homalodisca coagulata,564,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid61595,264462,Bdellovibrio bacteriovorus HD100,3024,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid59057,395963,Beijerinckia indica ATCC 9039,2784,Soil,Mesophile,Aerobe
+uid59047,471853,Beutenbergia cavernae DSM 12333,2971,Soil,Mesophile,Aerobe
+uid58559,367928,Bifidobacterium adolescentis ATCC 15703,1370,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid58911,442563,Bifidobacterium animalis lactis AD011,1301,"Human (Host, Human fecal, Intestinal microflora)",Mesophile,Anaerobe
+uid59359,580050,Bifidobacterium animalis lactis Bl 04,1337,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid59357,555970,Bifidobacterium animalis lactis DSM 10140,1337,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid59883,702459,Bifidobacterium bifidum PRL2010,1442,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid59545,883062,Bifidobacterium bifidum S17,1529,"Human (Host, Human intestinal microflora)",Mesophile,Anaerobe
+uid43091,401473,Bifidobacterium dentium Bd1,1680,Host,Mesophile,Anaerobe
+uid60163,890402,Bifidobacterium longum BBMN68,1471,Host,Mesophile,
+uid58833,205913,Bifidobacterium longum DJO10A,1585,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid62693,565040,Bifidobacterium longum infantis 157F,1608,Host,Mesophile,Anaerobe
+uid58677,391904,Bifidobacterium longum infantis ATCC 15697,1889,Host,Mesophile,Anaerobe
+uid62695,565042,Bifidobacterium longum JCM 1217,1565,Host,Mesophile,Anaerobe
+uid49131,759350,Bifidobacterium longum JDM301,1550,"Human (Host, Human vaginal microflora)",Mesophile,
+uid57939,206672,Bifidobacterium longum NCC2705,1439,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid41533,331104,Blattabacterium Blattella germanica Bge,564,"Host (Host, Insect endosymbiont)",Mesophile,Aerobe
+uid77127,1074889,Blattabacterium Mastotermes darwiniensis MADAR,518,,,
+uid41287,600809,Blattabacterium Periplaneta americana BPLAN,557,"Host (Host, Insect endosymbiont)",Mesophile,Aerobe
+uid61563,360910,Bordetella avium 197N,2581,Host,Mesophile,Aerobe
+uid57613,257310,Bordetella bronchiseptica RB50,3135,Host,Mesophile,Aerobe (Obligate aerobe)
+uid57615,257311,Bordetella parapertussis 12822,2729,Host,Mesophile,Aerobe (Obligate aerobe)
+uid57617,257313,Bordetella pertussis Tohama I,2320,Host,Mesophile,Aerobe
+uid61631,340100,Bordetella petrii DSM 12804,3124,,,
+uid58653,390236,Borrelia afzelii PKo,784,Host,Mesophile,Aerobe
+uid71231,521010,Borrelia bissettii DN127,758,,,
+uid57581,224326,Borrelia burgdorferi B31,785,Host,Mesophile,Aerobe
+uid59429,445985,Borrelia burgdorferi ZS7,751,Host,Mesophile,Aerobe (Microaerophilic)
+uid58791,412419,Borrelia duttonii Ly,757,Host,Mesophile,Aerobe
+uid58125,290434,Borrelia garinii PBi,766,Host,Mesophile,Aerobe
+uid59225,314723,Borrelia hermsii DAH,762,Host,Mesophile,Aerobe
+uid58793,412418,Borrelia recurrentis A1,743,Host,Mesophile,Aerobe
+uid58311,314724,Borrelia turicatae 91E135,760,Host,Mesophile,Aerobe
+uid58649,446465,Brachybacterium faecium DSM 4810,2364,Soil,Mesophile,Aerobe
+uid59291,565034,Brachyspira hyodysenteriae WA1,1987,Host,Mesophile,Anaerobe
+uid48819,526224,Brachyspira murdochii DSM 12563,2102,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid50609,759914,Brachyspira pilosicoli 95 1000,1891,Host,Mesophile,Anaerobe
+uid58505,288000,Bradyrhizobium BTAi1,4749,"Multi (Root nodule, Host, Soil)",Mesophile,Aerobe
+uid57599,224911,Bradyrhizobium japonicum USDA 110,5189,"Host (Host, Root nodule)",Mesophile,Aerobe
+uid58941,114615,Bradyrhizobium ORS 278,4624,"Multi (Soil, Host, Root nodule)",Mesophile,Aerobe
+uid59175,358681,Brevibacillus brevis NBRC 100599,4297,Soil,Mesophile,Aerobe
+uid42117,633149,Brevundimonas subvibrioides ATCC 15264,2809,Fresh water,Mesophile,Aerobe
+uid58019,262698,Brucella abortus bv 1 9 941,1792,Host,Mesophile,Facultative
+uid58873,430066,Brucella abortus S19,1688,Host,Mesophile,Aerobe
+uid59009,483179,Brucella canis ATCC 23365,1831,Host,Mesophile,Aerobe
+uid59241,546272,Brucella melitensis ATCC 23457,1798,Host,Mesophile,Aerobe
+uid62937,359391,Brucella melitensis biovar Abortus 2308,1753,Host,Mesophile,Aerobe
+uid57735,224914,Brucella melitensis bv 1 16M,1731,Host,Mesophile,Aerobe
+uid59319,568815,Brucella microti CCM 4915,1834,"Multi (Host, Soil)",Mesophile,Aerobe
+uid58113,444178,Brucella ovis ATCC 25840,1643,"Host (Host, Macrophage)",Mesophile,Facultative
+uid71131,520461,Brucella pinnipedialis B2 94,1847,Host,Mesophile,Aerobe
+uid57927,204722,Brucella suis 1330,1866,Host,Mesophile,Aerobe
+uid59015,470137,Brucella suis ATCC 23445,1682,Host,Mesophile,Aerobe
+uid59285,563178,Buchnera aphidicola 5A Acyrthosiphon pisum,530,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid57805,107806,Buchnera aphidicola APS Acyrthosiphon pisum,537,"Host (Host, Insect endosymbiont, Endosymbiont)",Mesophile,
+uid57827,224915,Buchnera aphidicola Bp Baizongia pistaciae,486,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid58579,372461,Buchnera aphidicola Cc Cinara cedri,344,,,
+uid68101,261317,Buchnera aphidicola Cinara tujafilina,348,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid57913,198804,Buchnera aphidicola Sg Schizaphis graminum,524,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid59283,561501,Buchnera aphidicola Tuc7 Acyrthosiphon pisum,528,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid58073,269483,Burkholderia 383,2600,"Host (Host, Rhizosphere)",Mesophile,Facultative
+uid58303,339670,Burkholderia ambifaria AMMD,2565,"Host (Host, Rhizosphere, Rhizosphere-colonizing)",Mesophile,Facultative
+uid58701,398577,Burkholderia ambifaria MC40 6,2454,"Host (Host, Rhizosphere, Rhizosphere-colonizing)",Mesophile,Facultative
+uid42975,640510,Burkholderia CCGE1001,2741,"Host (Rhizosphere, Host, Rhizosphere-colonizing)",Mesophile,Facultative
+uid42523,640511,Burkholderia CCGE1002,2469,"Host (Host, Rhizosphere, Rhizosphere-colonizing)",Mesophile,Facultative
+uid46253,640512,Burkholderia CCGE1003,2635,"Host (Host, Rhizosphere, Rhizosphere-colonizing)",Mesophile,Facultative
+uid58371,331271,Burkholderia cenocepacia AU 1054,2315,Host,Mesophile,Facultative
+uid58369,331272,Burkholderia cenocepacia HI2424,2531,"Multi (Host, Soil)",Mesophile,Facultative
+uid57953,216591,Burkholderia cenocepacia J2315,2645,Host,Mesophile,Aerobe
+uid58769,406425,Burkholderia cenocepacia MC0 3,2516,Host,Mesophile,Facultative
+uid66301,999541,Burkholderia gladioli BSR3,2824,,,
+uid59397,626418,Burkholderia glumae BGR1,2610,Host,Mesophile,Aerobe
+uid72473,868597,Burkholderia JV3,3247,,,
+uid57725,243160,Burkholderia mallei ATCC 23344,2359,"Multi (Host, Soil)",Mesophile,Aerobe
+uid58383,412022,Burkholderia mallei NCTC 10229,2595,Host,Mesophile,Aerobe
+uid58385,320389,Burkholderia mallei NCTC 10247,2597,Host,Mesophile,Aerobe
+uid58387,320388,Burkholderia mallei SAVP1,2688,Host,Mesophile,Aerobe
+uid58697,395019,Burkholderia multivorans ATCC 17616,2486,Host,Mesophile,Facultative
+uid58909,395019,Burkholderia multivorans ATCC 17616,2457,Host,Mesophile,Facultative
+uid58699,391038,Burkholderia phymatum STM815,2447,"Multi (Plant root, Root nodule, Host, Soil)",Mesophile,Facultative
+uid58729,398527,Burkholderia phytofirmans PsJN,2922,"Multi (Host, Soil)",Mesophile,Facultative
+uid58515,357348,Burkholderia pseudomallei 1106a,3267,"Multi (Terrestrial, Soil, Host)",Mesophile,Aerobe
+uid58391,320372,Burkholderia pseudomallei 1710b,2987,"Multi (Soil, Terrestrial, Host)",Mesophile,Aerobe
+uid58389,320373,Burkholderia pseudomallei 668,3225,"Multi (Soil, Terrestrial, Host)",Mesophile,Aerobe
+uid57733,272560,Burkholderia pseudomallei K96243,2711,"Multi (Soil, Host)",Mesophile,Aerobe
+uid29855,536230,Burkholderia pseudomallei MSHR346,3411,"Multi (Soil, Host)",Mesophile,Aerobe
+uid60487,882378,Burkholderia rhizoxinica HKI 454,2338,Host,,
+uid58081,271848,Burkholderia thailandensis E264,2561,Soil,Mesophile,Aerobe
+uid58075,269482,Burkholderia vietnamiensis G4,2659,Other (Wastewater),Mesophile,Facultative
+uid57823,266265,Burkholderia xenovorans LB400,3265,"Multi (Soil, Host)",Mesophile,Aerobe
+uid51489,515622,Butyrivibrio proteoclasticus B316,2318,"Host (Cow rumen, Host, Rumen)",Mesophile,Anaerobe
+uid59201,521460,Caldicellulosiruptor bescii DSM 6725,2104,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe (Obligate anaerobe)
+uid60157,632292,Caldicellulosiruptor hydrothermalis 108,2034,Other (Hot spring),Thermophile (Hyperthermophile),Anaerobe
+uid60393,632335,Caldicellulosiruptor kristjanssonii 177R1B,1998,Other (Hot spring),Thermophile (Hyperthermophile),Anaerobe
+uid60491,632348,Caldicellulosiruptor kronotskyensis 2002,1991,Other (Hot spring),Thermophile,Anaerobe
+uid60575,632516,Caldicellulosiruptor lactoaceticus 6A,1843,Other (Hot spring),Thermophile,Anaerobe
+uid51501,608506,Caldicellulosiruptor obsidiansis OB47,1810,Other (Hot spring),Thermophile (Hyperthermophile),Anaerobe
+uid60165,632518,Caldicellulosiruptor owensensis OL,1774,Other (Hot spring),Thermophile (Hyperthermophile),Anaerobe
+uid58289,351627,Caldicellulosiruptor saccharolyticus DSM 8903,1996,Other (Hot spring),Thermophile,Anaerobe
+uid60821,768670,Calditerrivibrio nitroreducens DSM 19672,1740,Host,Thermophile,Anaerobe
+uid58667,360104,Campylobacter concisus 13826,1690,"Host (Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid58669,360105,Campylobacter curvus 525 92,1721,"Host (Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid58545,360106,Campylobacter fetus 82 40,1526,"Host (Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid58981,360107,Campylobacter hominis ATCC BAA 381,1510,"Host (Gastrointestinal tract, Host)",Mesophile,Aerobe (Microaerophilic)
+uid58503,354242,Campylobacter jejuni 81 176,1429,"Host (Wastewater, Host)",Mesophile,Aerobe (Microaerophilic)
+uid58771,407148,Campylobacter jejuni 81116,1441,"Host (Wastewater, Host)",Mesophile,Aerobe (Microaerophilic)
+uid58671,360109,Campylobacter jejuni doylei 269 97,1526,"Host (Blood, Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid61249,757425,Campylobacter jejuni ICDCCJ07001,1278,"Host (Wastewater, Host)",Mesophile,Aerobe (Microaerophilic)
+uid57587,192222,Campylobacter jejuni NCTC 11168,1429,"Host (Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid57899,195099,Campylobacter jejuni RM1221,1626,"Host (Host, Wastewater)",Mesophile,Aerobe (Microaerophilic)
+uid58115,306263,Campylobacter lari RM2100,1342,"Multi (Fresh water, Soil, Host)",Mesophile,Aerobe (Microaerophilic)
+uid59207,522306,Candidatus Accumulibacter phosphatis clade IIA UW 1,3277,"Other (Sediment, Sludge)",Mesophile,Aerobe
+uid58963,452471,Candidatus Amoebophilus asiaticus 5a2,918,Host,Mesophile,
+uid71379,1029718,Candidatus Arthromitus SFB mouse Japan,1302,,,
+uid73425,1041504,Candidatus Arthromitus SFB rat Yit,1186,,,
+uid59163,511995,Candidatus Azobacteroides pseudotrichonymphae genomovar CFP2,700,Host,Mesophile,
+uid57999,203907,Candidatus Blochmannia floridanus,556,"Host (Bacteriocytes, Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid58329,291272,Candidatus Blochmannia pennsylvanicus BPEN,580,"Host (Insect endosymbiont, Endosymbiont, Host)",Mesophile,
+uid62083,859654,Candidatus Blochmannia vafer BVAF,559,"Host (Bacteriocytes, Endosymbiont, Host, Insect endosymbiont)",,
+uid58773,387662,Candidatus Carsonella ruddii,179,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid73587,981222,Candidatus Chloracidobacterium thermophilum B,1841,,,
+uid62959,456827,Candidatus Cloacamonas acidaminovorans,1559,"Other (Sludge, Wastewater treatment plant)",Mesophile,Anaerobe
+uid59067,477974,Candidatus Desulforudis audaxviator MP104C,1804,Other (Deep subsurface),Thermophile,Anaerobe
+uid59289,572265,Candidatus Hamiltonella defensa 5AT Acyrthosiphon pisum,1642,Host,Mesophile,
+uid59311,573234,Candidatus Hodgkinia cicadicola Dsem,166,Host,,
+uid58479,204669,Candidatus Koribacter versatilis Ellin345,3704,"Multi (Fresh water, Soil, Terrestrial)",Mesophile,Aerobe
+uid59227,537021,Candidatus Liberibacter asiaticus psy62,996,Host,Mesophile,
+uid61245,658172,Candidatus Liberibacter solanacearum CLso ZC1,992,Host,Mesophile,
+uid68687,696127,Candidatus Midichloria mitochondrii IricVA,989,Host,Mesophile,
+uid68739,903503,Candidatus Moranella endobia PCIT,389,,,
+uid51175,330214,Candidatus Nitrospira defluvii,3406,"Fresh water (Fresh water, Surface water)",Mesophile,
+uid66305,1002672,Candidatus Pelagibacter IMCC9063,1269,,,
+uid58401,335992,Candidatus Pelagibacter ubique HTCC1062,1204,Marine,Mesophile,Aerobe
+uid61641,59748,Candidatus Phytoplasma australiense,448,Host,Mesophile,Aerobe
+uid59087,37692,Candidatus Phytoplasma mali,400,Host,Mesophile,Aerobe
+uid58079,264201,Candidatus Protochlamydia amoebophila UWE25,1657,Host,Mesophile,
+uid47081,488538,Candidatus Puniceispirillum marinum IMCC1322,2119,Marine,Mesophile,
+uid46841,515618,Candidatus Riesia pediculicola USDA,503,Host,Mesophile,
+uid58645,413404,Candidatus Ruthia magnifica Cm Calyptogena magnifica,911,"Multi (Endosymbiont, Host, Hydrothermal vent, Marine)",Mesophile,Aerobe
+uid58139,234267,Candidatus Solibacter usitatus Ellin6076,5056,"Multi (Soil, Fresh water)",Mesophile,Aerobe
+uid52535,706194,Candidatus Sulcia muelleri CARI,239,Host,Mesophile,
+uid47075,641892,Candidatus Sulcia muelleri DMIN,217,Host,,
+uid58943,444179,Candidatus Sulcia muelleri GWSS,217,Host,Mesophile,
+uid59393,595499,Candidatus Sulcia muelleri SMDSEM,234,Host,Mesophile,
+uid68741,891398,Candidatus Tremblaya princeps PCIT,118,Host,,
+uid59427,412965,Candidatus Vesicomyosocius okutanii HA,876,Host,Mesophile,Anaerobe
+uid52459,871271,Candidatus Zinderia insecticola CARI,196,Host,Mesophile,Anaerobe (Obligate anaerobe)
+uid70727,860228,Capnocytophaga canimorsus Cc5,2064,"Host (Gingival crevices, Host)",Mesophile,Aerobe (Microaerophilic)
+uid59197,521097,Capnocytophaga ochracea DSM 7271,1891,"Human (Host, Human oral microflora)",Mesophile,Facultative
+uid57821,246194,Carboxydothermus hydrogenoformans Z 2901,2189,Fresh water,Thermophile (Hyperthermophile),Anaerobe
+uid65789,208596,Carnobacterium 17 4,1871,"Marine (Marine, Sea water)",Mesophile,
+uid59077,479433,Catenulispora acidiphila DSM 44928,5526,Soil,Mesophile,Aerobe
+uid57891,190650,Caulobacter crescentus CB15,2974,"Multi (Fresh water, Marine, Soil)",Mesophile,Aerobe (Obligate aerobe)
+uid59307,565050,Caulobacter crescentus NA1000,3064,"Multi (Fresh water, Marine, Soil)",Mesophile,Aerobe (Obligate aerobe)
+uid58551,366602,Caulobacter K31,3651,Fresh water,Mesophile,Aerobe
+uid41709,509190,Caulobacter segnis ATCC 21756,3128,Fresh water,Mesophile,Aerobe
+uid66779,590998,Cellulomonas fimi ATCC 484,2892,,,
+uid48821,446466,Cellulomonas flavigena DSM 20109,2896,Soil,Mesophile,Facultative
+uid62159,688270,Cellulophaga algicola DSM 14237,3306,,Mesophile,Aerobe
+uid63401,867900,Cellulophaga lytica DSM 7489,2735,Other (Mud),Mesophile,Aerobe
+uid68143,593907,Cellvibrio gilvus ATCC 13127,2506,,,
+uid59139,498211,Cellvibrio japonicus Ueda107,2993,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid58069,266779,Chelativorans BNC1,2990,Host,Mesophile,Aerobe
+uid59113,485918,Chitinophaga pinensis DSM 2588,5018,,Mesophile,Aerobe
+uid57785,243161,Chlamydia muridarum Nigg,851,Host,Mesophile,
+uid61633,471472,Chlamydia trachomatis 434 Bu,826,Host,Mesophile,
+uid58333,315277,Chlamydia trachomatis A HAR 13,844,Host,Mesophile,
+uid59351,580049,Chlamydia trachomatis B Jali20 OT,821,Host,Mesophile,
+uid59349,672161,Chlamydia trachomatis B TZ1A828 OT,824,,,
+uid57637,272561,Chlamydia trachomatis D UW 3 CX,840,Host,Mesophile,
+uid61635,471473,Chlamydia trachomatis L2b UCH 1 proctitis,825,Host,Mesophile,
+uid68843,887712,Chlamydia trachomatis L2c,896,Host,Mesophile,
+uid57963,218497,Chlamydophila abortus S26 3,874,Host,Mesophile,
+uid57783,227941,Chlamydophila caviae GPIC,927,Host,Mesophile,
+uid57971,264202,Chlamydophila felis Fe C 56,923,Host,Mesophile,
+uid66295,331635,Chlamydophila pecorum E58,926,Host,Mesophile,
+uid57809,115711,Chlamydophila pneumoniae AR39,1004,Host,Mesophile,
+uid57811,115713,Chlamydophila pneumoniae CWL029,939,Host,Mesophile,
+uid57829,138677,Chlamydophila pneumoniae J138,945,"Host (Host, Pharyngeal mucosa)",Mesophile,
+uid57997,182082,Chlamydophila pneumoniae TW 183,994,Host,Mesophile,
+uid63621,331636,Chlamydophila psittaci 6BC,894,Host,Mesophile,
+uid59185,517417,Chlorobaculum parvum NCIB 8327,1795,Fresh water,Mesophile,Facultative
+uid58375,340177,Chlorobium chlorochromatii CaD3,1701,Fresh water,Mesophile,Anaerobe
+uid58127,290315,Chlorobium limicola DSM 245,2057,"Fresh water (Hot spring, Fresh water)",Mesophile,Anaerobe
+uid58175,319225,Chlorobium luteolum DSM 273,1761,"Fresh water (Fresh water, Hot spring, Mud)",Mesophile,Anaerobe
+uid58131,331678,Chlorobium phaeobacteroides BS1,2101,Marine,Mesophile,Facultative
+uid58133,290317,Chlorobium phaeobacteroides DSM 266,2144,Fresh water,Mesophile,Facultative
+uid58129,290318,Chlorobium phaeovibrioides DSM 265,1538,Fresh water,Mesophile,Facultative
+uid57897,194439,Chlorobium tepidum TLS,1983,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe (Obligate anaerobe)
+uid58621,326427,Chloroflexus aggregans DSM 9485,2853,"Fresh water (Fresh water, Hot spring)",Thermophile,Facultative
+uid57657,324602,Chloroflexus aurantiacus J 10 fl,2905,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe
+uid59085,480224,Chloroflexus Y 400 fl,3108,,Mesophile,
+uid59187,517418,Chloroherpeton thalassium ATCC 35110,2282,Fresh water,Mesophile,Facultative
+uid58001,243365,Chromobacterium violaceum ATCC 12472,3437,"Multi (Fresh water, Host, Soil)",Mesophile,Facultative
+uid62921,290398,Chromohalobacter salexigens DSM 3043,2594,"Fresh water (Fresh water, Solar saltern)",Mesophile,Aerobe
+uid58143,290338,Citrobacter koseri ATCC BAA 895,3835,"Multi (Food, Fresh water, Host, Intestinal microflora, Soil)",Mesophile,Facultative
+uid43089,637910,Citrobacter rodentium ICC168,3599,,Mesophile,Facultative
+uid61625,443906,Clavibacter michiganensis NCPPB 382,2340,Host,Mesophile,Aerobe
+uid61577,31964,Clavibacter michiganensis sepedonicus,2293,Host,Mesophile,Aerobe
+uid46219,699246,Clostridiales genomosp BVAB3 UPII9 5,1332,Host,,
+uid57677,272562,Clostridium acetobutylicum ATCC 824,2829,Soil,Mesophile,Anaerobe (Obligate anaerobe)
+uid68293,991791,Clostridium acetobutylicum DSM 1731,2884,Soil,Mesophile,Anaerobe (Obligate anaerobe)
+uid58137,290402,Clostridium beijerinckii NCIMB 8052,3367,"Multi (Fresh water, Soil)",Mesophile,Anaerobe
+uid58927,441770,Clostridium botulinum A ATCC 19397,2720,"Multi (Host, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid61579,413999,Clostridium botulinum A ATCC 3502,2751,"Multi (Soil, Host)",Mesophile,Anaerobe (Obligate anaerobe)
+uid58931,441771,Clostridium botulinum A Hall,2621,"Multi (Host, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid59229,536232,Clostridium botulinum A2 Kyoto,2930,"Multi (Food, Host, Marine)",Mesophile,Anaerobe
+uid59149,498214,Clostridium botulinum A3 Loch Maree,2790,"Multi (Fresh water, Host, Soil)",Mesophile,Anaerobe
+uid59159,508765,Clostridium botulinum B Eklund 17B,2710,"Marine (Food, Marine)",Mesophile,Anaerobe
+uid59147,498213,Clostridium botulinum B1 Okra,2791,Host,Mesophile,Anaerobe
+uid59173,515621,Clostridium botulinum Ba4 657,2822,"Multi (Soil, Host)",Mesophile,Anaerobe (Obligate anaerobe)
+uid66203,929506,Clostridium botulinum BKT015925,1959,"Multi (Soil, Fresh water)",Mesophile,Anaerobe (Obligate anaerobe)
+uid59157,508767,Clostridium botulinum E3 Alaska E43,2549,"Host (Food, Host)",Mesophile,Anaerobe
+uid58929,441772,Clostridium botulinum F Langeland,2793,Host,Mesophile,Anaerobe (Obligate anaerobe)
+uid58709,394503,Clostridium cellulolyticum H10,2594,Soil,Mesophile,Anaerobe
+uid51503,573061,Clostridium cellulovorans 743B,3174,Soil,Mesophile,Anaerobe
+uid57679,272563,Clostridium difficile 630,2611,Host,Mesophile,Anaerobe (Obligate anaerobe)
+uid41017,645462,Clostridium difficile CD196,2496,Host,Mesophile,Anaerobe (Obligate anaerobe)
+uid40921,645463,Clostridium difficile R20291,2525,Host,Mesophile,Anaerobe (Obligate anaerobe)
+uid58885,431943,Clostridium kluyveri DSM 555,2740,"Fresh water (Mud, Fresh water)",Mesophile,Anaerobe
+uid59369,583346,Clostridium kluyveri NBRC 12016,2538,"Fresh water (Fresh water, Mud)",Mesophile,Anaerobe
+uid49117,642492,Clostridium lentocellum DSM 5427,3195,,Mesophile,Anaerobe
+uid50583,748727,Clostridium ljungdahlii DSM 13528,2944,"Multi (Soil, Host)",Mesophile,Anaerobe
+uid58643,386415,Clostridium novyi NT,1901,"Multi (Host, Soil, Terrestrial)",Mesophile,Anaerobe
+uid57681,195102,Clostridium perfringens 13,2135,"Multi (Host, Soil)",Mesophile,Anaerobe
+uid57901,195103,Clostridium perfringens ATCC 13124,2353,"Multi (Host, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid58117,289380,Clostridium perfringens SM101,2029,Host,Mesophile,Anaerobe
+uid58519,357809,Clostridium phytofermentans ISDg,2893,"Soil (Soil, Terrestrial)",Mesophile,Anaerobe
+uid51419,610130,Clostridium saccharolyticum WM1,2981,Other (Sludge),Mesophile,Anaerobe
+uid59585,499177,Clostridium sticklandii DSM 519,2111,"Multi (Fresh water, Host, Soil)",Mesophile,Anaerobe
+uid68705,1042156,Clostridium SY8519,2079,,,
+uid57683,212717,Clostridium tetani E88,1884,Host,Mesophile,Anaerobe
+uid57917,203119,Clostridium thermocellum ATCC 27405,2476,"Multi (Intestinal microflora, Soil, Fresh water, Host)",Thermophile,Anaerobe
+uid70793,1005048,Collimonas fungivorans Ter331,3287,Soil,,
+uid57855,167879,Colwellia psychrerythraea 34H,3857,Other (Sediment),Psychrophile,Facultative
+uid62961,688245,Comamonas testosteroni CNB 2,3317,Other (Sludge),Mesophile,Aerobe
+uid43467,469383,Conexibacter woesei DSM 14684,3668,Soil,Mesophile,Aerobe (Obligate aerobe)
+uid59253,309798,Coprothermobacter proteolyticus DSM 5265,1323,,Thermophile,Anaerobe
+uid47079,583355,Coraliomargarita akajimensis DSM 45221,2567,Marine,Mesophile,Aerobe (Obligate aerobe)
+uid65787,700015,Coriobacterium glomerans PW2,1411,,,
+uid59409,548476,Corynebacterium aurimucosum ATCC 700975,2050,"Human (Host, Human vaginal microflora)",Mesophile,Facultative
+uid57691,257309,Corynebacterium diphtheriae NCTC 13129,1946,Host,Mesophile,Facultative
+uid62905,196164,Corynebacterium efficiens YS 314,2358,Host,Mesophile,Facultative
+uid57905,196627,Corynebacterium glutamicum ATCC 13032,2397,"Soil (Normal microflora, Soil)",Mesophile,Facultative
+uid61611,196627,Corynebacterium glutamicum ATCC 13032,2454,"Soil (Normal microflora, Soil)",Mesophile,Facultative
+uid58897,340322,Corynebacterium glutamicum R,2451,"Soil (Soil, Normal microflora)",Mesophile,Facultative
+uid58399,306537,Corynebacterium jeikeium K411,1673,"Human (Host, Human skin)",Mesophile,Facultative
+uid59411,645127,Corynebacterium kroppenstedtii DSM 44385,1739,Host,Mesophile,Anaerobe
+uid50585,765874,Corynebacterium pseudotuberculosis FRC41,1781,Host,Mesophile,Facultative
+uid50555,662755,Corynebacterium resistens DSM 45100,1762,"Host (Blood, Host)",Mesophile,Anaerobe
+uid68291,945712,Corynebacterium ulcerans BR AD22,1975,Host,Mesophile,Facultative
+uid61639,504474,Corynebacterium urealyticum DSM 7109,1683,Host,Mesophile,Anaerobe
+uid62003,858619,Corynebacterium variabile DSM 44702,2274,"Soil (Normal microflora, Soil)",Mesophile,Aerobe
+uid58893,434923,Coxiella burnetii CbuG Q212,1619,Host,Mesophile,Facultative
+uid58895,434924,Coxiella burnetii CbuK Q154,1639,Host,Mesophile,Facultative
+uid58629,434922,Coxiella burnetii Dugway 5J108 111,1752,,,
+uid58637,360115,Coxiella burnetii RSA 331,1625,"Host (Host, Blood)",Mesophile,Facultative
+uid57631,227377,Coxiella burnetii RSA 493,1594,"Multi (Host, Soil)",Mesophile,Facultative
+uid49661,216432,Croceibacter atlanticus HTCC2559,2345,Marine,Mesophile,Aerobe
+uid58145,290339,Cronobacter sakazakii ATCC BAA 894,3378,Host,Mesophile,Facultative
+uid40821,693216,Cronobacter turicensis z3032,3312,,,
+uid59041,469378,Cryptobacterium curtum DSM 15641,1187,"Human (Host, Human oral microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid57815,266264,Cupriavidus metallidurans CH34,2825,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid68689,1042878,Cupriavidus necator N 1,2716,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid61615,977880,Cupriavidus taiwanensis LMG 19424,2456,,,
+uid43697,713887,cyanobacterium UCYN A,1075,Other (Sea water),,
+uid59013,43989,Cyanothece ATCC 51142,3593,Marine,Mesophile,Facultative
+uid59025,65393,Cyanothece PCC 7424,3816,Fresh water,Mesophile,Anaerobe
+uid59435,395961,Cyanothece PCC 7425,3663,Fresh water,Mesophile,Anaerobe
+uid52547,497965,Cyanothece PCC 7822,3907,Fresh water,Mesophile,Aerobe
+uid59027,41431,Cyanothece PCC 8801,3242,Fresh water,Mesophile,Aerobe
+uid59143,395962,Cyanothece PCC 8802,3283,Fresh water,Mesophile,Aerobe
+uid71485,880070,Cyclobacterium marinum DSM 745,3835,,,
+uid57651,269798,Cytophaga hutchinsonii ATCC 33406,3136,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid58025,159087,Dechloromonas aromatica RCB,3111,Fresh water,Mesophile,Facultative
+uid46653,639282,Deferribacter desulfuricans SSM1,1790,,Thermophile,Anaerobe
+uid58477,216389,Dehalococcoides BAV1,1176,"Fresh water (Fresh water, Groundwater)",Mesophile,Anaerobe
+uid58413,255470,Dehalococcoides CBDB1,1185,"Fresh water (Fresh water, Groundwater, Sediment)",Mesophile,Anaerobe
+uid57763,243164,Dehalococcoides ethenogenes 195,1267,"Fresh water (Fresh water, Groundwater)",Mesophile,Anaerobe
+uid42115,633145,Dehalococcoides GT,1158,"Fresh water (Fresh water, Groundwater)",Mesophile,Anaerobe
+uid42393,311424,Dehalococcoides VS,1163,"Fresh water (Fresh water, Groundwater)",Mesophile,Anaerobe
+uid48131,552811,Dehalogenimonas lykanthroporepellens BL DC 9,1369,,Mesophile,Anaerobe
+uid58615,546414,Deinococcus deserti VCD115,2195,Soil,Mesophile,Aerobe
+uid58275,319795,Deinococcus geothermalis DSM 11300,1967,"Fresh water (Fresh water, Hot spring)",Thermophile,Aerobe
+uid62225,709986,Deinococcus maricopensis DSM 21211,2618,Soil,Mesophile,Aerobe
+uid63399,693977,Deinococcus proteolyticus MRP,1768,"Multi (Soil, Host)",Mesophile,Aerobe
+uid57665,243230,Deinococcus radiodurans R1,2220,Soil,Mesophile,Aerobe
+uid58703,398578,Delftia acidovorans SPH 1,4013,"Multi (Fresh water, Oil fields, Sludge, Soil)",Mesophile,Aerobe
+uid67319,742013,Delftia Cs1 4,3888,"Multi (Oil fields, Sludge, Fresh water, Soil)",Mesophile,Aerobe
+uid46657,522772,Denitrovibrio acetiphilus DSM 12809,2324,"Multi (Fresh water, Marine)",Mesophile,Anaerobe (Obligate anaerobe)
+uid51371,644282,Desulfarculus baarsii DSM 2075,2556,Other (Mud),Mesophile,Anaerobe
+uid58913,439235,Desulfatibacillum alkenivorans AK 01,3724,Fresh water,Mesophile,Anaerobe
+uid57749,272564,Desulfitobacterium hafniense DCB 2,3362,Other (Sludge),Mesophile,Anaerobe
+uid58605,138119,Desulfitobacterium hafniense Y51,3332,Soil,Mesophile,Anaerobe
+uid65785,880072,Desulfobacca acetoxidans DSM 11109,2269,,,
+uid59061,177437,Desulfobacterium autotrophicum HRM2,3400,Fresh water,Mesophile,Anaerobe
+uid62265,577650,Desulfobulbus propionicus DSM 2032,2536,"Multi (Fresh water, Marine, Sediment)",Mesophile,Anaerobe
+uid58777,96561,Desulfococcus oleovorans Hxd3,2580,"Fresh water (Fresh water, Oil fields)",Mesophile,Anaerobe
+uid59183,485915,Desulfohalobium retbaense DSM 5692,2061,Other (Sediment),Mesophile,Anaerobe (Obligate anaerobe)
+uid59217,525897,Desulfomicrobium baculatum DSM 4028,2671,,Mesophile,Anaerobe (Obligate anaerobe)
+uid58153,177439,Desulfotalea psychrophila LSv54,2494,"Marine (Marine, Sediment)",Psychrophile,Anaerobe
+uid59109,485916,Desulfotomaculum acetoxidans DSM 771,3018,"Multi (Animal intestinal microflora, Fresh water, Mud, Sea water, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid67317,868595,Desulfotomaculum carboxydivorans CO 1 SRB,2135,,Thermophile,
+uid67357,760568,Desulfotomaculum kuznetsovii DSM 6115,2595,,Thermophile,
+uid58277,349161,Desulfotomaculum reducens MI 1,2434,Fresh water,Thermophile (Thermotolerant),Anaerobe
+uid67507,696281,Desulfotomaculum ruminis DSM 2154,2923,"Multi (Animal intestinal microflora, Fresh water, Mud, Sea water, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid42613,643562,Desulfovibrio aespoeensis Aspo 2,2606,"Multi (Animal intestinal microflora, Fresh water, Mud, Sea water, Soil)",Mesophile,Anaerobe (Obligate anaerobe)
+uid57941,207559,Desulfovibrio alaskensis G20,2488,,Mesophile,Anaerobe
+uid59213,525146,Desulfovibrio desulfuricans ATCC 27774,1965,"Multi (Fresh water, Rumen, Host)",Mesophile,Anaerobe
+uid59309,573370,Desulfovibrio magneticus RS 1,3293,Fresh water,Mesophile,Anaerobe
+uid59223,526222,Desulfovibrio salexigens DSM 2638,2954,Other (Mud),Mesophile,Anaerobe
+uid58679,391774,Desulfovibrio vulgaris DP4,2335,Other (Sediment),Mesophile,Anaerobe
+uid57645,882,Desulfovibrio vulgaris Hildenborough,2734,Soil,Mesophile,Anaerobe
+uid59089,883,Desulfovibrio vulgaris Miyazaki F,2499,"Multi (Fresh water, Salt marsh, Soil)",Mesophile,Anaerobe
+uid45897,653733,Desulfurispirillum indicum S5,2102,"Fresh water (Fresh water, Sediment)",Mesophile,Anaerobe
+uid49487,589865,Desulfurivibrio alkaliphilus AHT2,2098,,Mesophile,Anaerobe
+uid63405,868864,Desulfurobacterium thermolithotrophum DSM 11699,1322,Marine,Thermophile,Anaerobe
+uid57643,246195,Dichelobacter nodosus VCS1703A,1168,Host,Mesophile,Anaerobe
+uid52537,198628,Dickeya dadantii 3937,3389,Host,Mesophile,Facultative
+uid42519,590409,Dickeya dadantii Ech586,3092,,Mesophile,Facultative
+uid59363,579405,Dickeya dadantii Ech703,2963,Host,Mesophile,Facultative
+uid59297,561229,Dickeya zeae Ech1591,3128,,Mesophile,Facultative
+uid59439,309799,Dictyoglomus thermophilum H 6 12,1562,"Fresh water (Hot spring, Fresh water)",Thermophile,Anaerobe
+uid59177,515635,Dictyoglomus turgidum DSM 6724,1463,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe
+uid58707,398580,Dinoroseobacter shibae DFL 12,2815,Fresh water,Mesophile,Aerobe
+uid59049,471854,Dyadobacter fermentans DSM 18053,4052,"Multi (Host, Soil)",Mesophile,Aerobe
+uid59403,634503,Edwardsiella ictaluri 93 146,2983,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid41819,498217,Edwardsiella tarda EIB202,2909,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59079,479437,Eggerthella lenta DSM 2243,2228,"Human (Blood, Host, Human intestinal microflora)",Mesophile,Anaerobe
+uid68707,502558,Eggerthella YY7918,2009,,,
+uid58071,269484,Ehrlichia canis Jake,836,Host,Mesophile,Aerobe
+uid57933,205920,Ehrlichia chaffeensis Arkansas,991,Host,Mesophile,
+uid58245,302409,Ehrlichia ruminantium Gardel,845,Host,Mesophile,
+uid58013,254945,Ehrlichia ruminantium Welgevonden,809,Host,Mesophile,
+uid58243,254945,Ehrlichia ruminantium Welgevonden,847,Host,Mesophile,
+uid58949,445932,Elusimicrobium minutum Pei191,1349,"Host (Host, Termite gut)",Mesophile,Anaerobe
+uid58727,399742,Enterobacter 638,3113,"Host (Endophyte, Host)",Mesophile,Facultative
+uid68103,1028307,Enterobacter aerogenes KCTC 2190,3584,"Human (Host, Human airways)",Mesophile,
+uid72793,640513,Enterobacter asburiae LF7a,3269,,,
+uid48363,716541,Enterobacter cloacae ATCC 13047,3710,Host,Mesophile,Aerobe
+uid59969,701347,Enterobacter cloacae SCF1,3272,Soil,Mesophile,Facultative
+uid57669,226185,Enterococcus faecalis V583,2439,"Host (Intestinal microflora, Host, Wastewater)",Mesophile,Facultative
+uid46943,716540,Erwinia amylovora ATCC 49946,2786,Host,Mesophile,Facultative
+uid46839,665029,Erwinia amylovora CFBP1430,2994,"Host (Host, Plants)",Mesophile,Facultative
+uid50547,634500,Erwinia billingiae Eb661,3281,,Mesophile,Facultative
+uid40659,634499,Erwinia pyrifoliae Ep1 96,2840,,Mesophile,Facultative
+uid59029,465817,Erwinia tasmaniensis Et1 99,2740,Host,Mesophile,Facultative
+uid68021,650150,Erysipelothrix rhusiopathiae Fujisawa,1433,,,
+uid58299,314225,Erythrobacter litoralis HTCC2594,2467,Marine,Mesophile,Aerobe
+uid58531,362663,Escherichia coli 536,3347,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59383,585055,Escherichia coli 55989,3481,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58623,405955,Escherichia coli APEC O1,3237,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58783,481805,Escherichia coli ATCC 8739,3157,Host,Mesophile,Facultative
+uid58803,413997,Escherichia coli B REL606,3109,"Human (Human intestinal microflora, Host)",Mesophile,Facultative
+uid59245,866768,Escherichia coli BL21 Gold DE3 pLysS AG,3183,,,
+uid59391,595496,Escherichia coli BW2952,3097,"Human (Human intestinal microflora, Host)",Mesophile,Facultative
+uid57915,199310,Escherichia coli CFT073,3893,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58395,331111,Escherichia coli E24377A,3597,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59379,585397,Escherichia coli ED1a,3513,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58393,331112,Escherichia coli HS,3330,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59377,585034,Escherichia coli IAI1,3319,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59381,585057,Escherichia coli IAI39,3366,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58979,316385,Escherichia coli K 12 substr DH10B,3049,"Human (Human intestinal microflora, Host)",Mesophile,Facultative
+uid57779,511145,Escherichia coli K 12 substr MG1655,3140,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid41013,585395,Escherichia coli O103 H2 12009,3530,Host,Mesophile,Facultative
+uid41023,585396,Escherichia coli O111 H 11128,3487,Host,Mesophile,Facultative
+uid59343,574521,Escherichia coli O127 H6 E2348 69,3386,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59091,444450,Escherichia coli O157 H7 EC4115,3725,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid57831,155864,Escherichia coli O157 H7 EDL933,3588,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid57781,386585,Escherichia coli O157 H7 Sakai,3650,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59235,544404,Escherichia coli O157 H7 TW14359,3659,"Human (Human intestinal microflora, Host)",Mesophile,Facultative
+uid41021,573235,Escherichia coli O26 H11 11368,3611,"Human (Host, Human skin)",Mesophile,Facultative
+uid46655,701177,Escherichia coli O55 H7 CB9615,3614,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid62979,585035,Escherichia coli S88,3433,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59425,409438,Escherichia coli SE11,3492,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58919,439855,Escherichia coli SMS 3 5,3544,"Human (Human intestinal microflora, Host)",Mesophile,Facultative
+uid62981,585056,Escherichia coli UMN026,3576,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid58541,364106,Escherichia coli UTI89,3757,"Human (Host, Human intestinal microflora)",Mesophile,Facultative
+uid59375,585054,Escherichia fergusonii ATCC 35469,3273,Host,Mesophile,Facultative
+uid46255,663278,Ethanoligenens harbinense YUAN 3,2129,Other (Sludge),Mesophile,Anaerobe (Obligate anaerobe)
+uid59171,515620,Eubacterium eligens ATCC 27750,1730,"Multi (Host, Intestinal microflora, Soil)",Mesophile,Anaerobe
+uid59777,903814,Eubacterium limosum KIST612,3304,,,Anaerobe
+uid59169,515619,Eubacterium rectale ATCC 33656,2830,"Host (Intestinal microflora, Host)",Mesophile,Anaerobe
+uid59093,360911,Exiguobacterium AT1b,2497,,Thermophile,Facultative
+uid58053,262543,Exiguobacterium sibiricum 255 15,2421,Other (Permafrost sediment),Psychrophile (Psychrotrophic),Facultative
+uid53371,550540,Ferrimonas balearica DSM 9799,3091,"Multi (Marine, Fresh water)",Mesophile,Facultative
+uid58625,381764,Fervidobacterium nodosum Rt17 B1,1484,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe
+uid41169,59374,Fibrobacter succinogenes S85,2444,Host,Mesophile,Anaerobe
+uid58867,334413,Finegoldia magna ATCC 29328,1381,"Human (Host, Human skin)",Mesophile,Anaerobe
+uid59413,531844,Flavobacteriaceae bacterium 3519 10,2234,,,
+uid51877,313603,Flavobacteriales bacterium HTCC2170,2831,"Multi (Coastal, Fresh water, Marine)",Mesophile,Aerobe
+uid73421,1034807,Flavobacterium branchiophilum,2477,,,
+uid58493,376686,Flavobacterium johnsoniae UW101,3782,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid61627,402612,Flavobacterium psychrophilum JIP02 86,2122,"Multi (Fresh water, Host)",Psychrophile,Aerobe
+uid68147,717231,Flexistipes sinusarabici DSM 4947,1782,,,
+uid65271,755732,Fluviicola taffensis DSM 16823,3289,,,
+uid58499,401614,Francisella novicida U112,1517,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid59105,484022,Francisella philomiragia ATCC 25017,1609,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58693,393115,Francisella tularensis FSC198,1349,"Multi (Host, Fresh water)",Mesophile,Aerobe
+uid58999,458234,Francisella tularensis holarctica FTNF002 00,1325,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58595,376619,Francisella tularensis holarctica LVS,1375,,,
+uid58687,393011,Francisella tularensis holarctica OSU18,1340,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58939,441952,Francisella tularensis mediasiatica FSC147,1255,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid57589,177416,Francisella tularensis SCHU S4,1348,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58811,418136,Francisella tularensis WY96 3418,1397,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid68321,573569,Francisella TX077308,1701,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid58695,326424,Frankia alni ACN14a,4616,"Multi (Host, Soil)",Mesophile,Aerobe
+uid58397,106370,Frankia CcI3,3190,"Soil (Plant symbiont, Soil)",Mesophile,Aerobe
+uid58367,298653,Frankia EAN1pec,4159,"Multi (Host, Soil, Plant symbiont)",Mesophile,Aerobe
+uid42615,298654,Frankia EuI1c,4236,"Multi (Host, Plant symbiont, Soil)",Mesophile,Aerobe
+uid46257,656024,Frankia symbiont of Datisca glomerata,3065,"Multi (Host, Plant symbiont, Soil, Root nodule)",Mesophile,Aerobe
+uid57885,190304,Fusobacterium nucleatum ATCC 25586,1702,"Host (Host, Oral microflora)",Mesophile,Anaerobe
+uid66567,1005058,Gallibacterium anatis UMN179,2060,,,
+uid51505,395494,Gallionella capsiferriformans ES 2,2307,Fresh water,Mesophile,Aerobe
+uid51635,83406,gamma proteobacterium HdN1,2901,,,
+uid43211,553190,Gardnerella vaginalis 409 05,1110,"Host (Host, Vagina microflora)",Mesophile,Anaerobe (Obligate anaerobe)
+uid55487,525284,Gardnerella vaginalis ATCC 14019,1133,"Host (Host, Vagina microflora)",Mesophile,Anaerobe
+uid58813,379066,Gemmatimonas aurantiaca T 27,3084,,Mesophile,Aerobe
+uid49467,691437,Geobacillus C56 T3,2664,,Mesophile,Facultative
+uid58227,235909,Geobacillus kaustophilus HTA426,2756,"Marine (Deep sea, Marine, Sediment)",Thermophile,Aerobe
+uid58829,420246,Geobacillus thermodenitrificans NG80 2,2705,"Fresh water (Fresh water, Oil fields)",Thermophile,Facultative
+uid48129,634956,Geobacillus thermoglucosidasius C56 YS93,2882,,Thermophile (Hyperthermophile),Facultative
+uid59045,471223,Geobacillus WCH70,2469,,Thermophile,Facultative
+uid55779,581103,Geobacillus Y4 1MC1,2795,,Thermophile,Facultative
+uid55381,550542,Geobacillus Y412MC52,2698,"Fresh water (Fresh water, Hot spring)",Thermophile,Facultative
+uid41171,544556,Geobacillus Y412MC61,2699,,Thermophile,Facultative
+uid58749,404380,Geobacter bemidjiensis Bem,3044,"Soil (Sediment, Soil)",Mesophile,Anaerobe
+uid58543,316067,Geobacter FRC 32,2884,"Multi (Fresh water, Sediment, Soil)",Mesophile,Anaerobe
+uid58713,398767,Geobacter lovleyi SZ,2735,"Multi (Fresh water, Sediment, Soil)",Mesophile,Anaerobe
+uid55771,443143,Geobacter M18,3276,Other (Sediment),Mesophile,Anaerobe
+uid59037,443144,Geobacter M21,3070,"Multi (Fresh water, Sediment, Soil)",Mesophile,Anaerobe
+uid57731,269799,Geobacter metallireducens GS 15,2657,Fresh water,Mesophile,Anaerobe
+uid57743,243231,Geobacter sulfurreducens PCA,2664,"Soil (Sediment, Soil)",Mesophile,Anaerobe
+uid58475,351605,Geobacter uraniireducens Rf4,3146,"Soil (Soil, Sediment)",Mesophile,Anaerobe
+uid43725,526225,Geodermatophilus obscurus DSM 43160,3589,Soil,Mesophile,Aerobe
+uid66595,983545,Glaciecola 4H 3 7 YE 5,3344,,,
+uid73759,1085623,Glaciecola nitratireducens FR1064,3028,,,
+uid58011,251221,Gloeobacter violaceus PCC 7421,3225,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid59075,272568,Gluconacetobacter diazotrophicus PAl 5,2607,Host,Mesophile,Aerobe
+uid61587,272568,Gluconacetobacter diazotrophicus PAl 5,2804,Host,Mesophile,Aerobe
+uid46523,634177,Gluconacetobacter xylinus NBRC 3288,2172,,,
+uid58239,290633,Gluconobacter oxydans 621H,1994,"Other (Beer, Fruits, Plants, Wine)",Mesophile,Aerobe
+uid41403,526226,Gordonia bronchialis DSM 43247,3389,Host,Mesophile,Aerobe (Obligate aerobe)
+uid58881,411154,Gramella forsetii KT0803,2963,Marine,Mesophile,Aerobe
+uid58661,391165,Granulibacter bethesdensis CGDNIH1,2098,"Host (Host, Lymph nodes)",Mesophile,
+uid57625,233412,Haemophilus ducreyi 35000HP,1506,Host,Mesophile,Anaerobe
+uid58093,281310,Haemophilus influenzae 86 028NP,1595,Host,Mesophile,Facultative
+uid62123,866630,Haemophilus influenzae F3031,1545,Host,Mesophile,Facultative
+uid62097,935897,Haemophilus influenzae F3047,1551,Host,Mesophile,Facultative
+uid58591,374930,Haemophilus influenzae PittEE,1414,Host,Mesophile,Facultative
+uid58593,374931,Haemophilus influenzae PittGG,1468,Host,Mesophile,Facultative
+uid57771,71421,Haemophilus influenzae Rd KW20,1451,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid72801,862965,Haemophilus parainfluenzae T3T1,1736,Host,Mesophile,Facultative
+uid59273,557723,Haemophilus parasuis SH0165,1748,"Host (Host, Swine upper respiratory tract)",Mesophile,Facultative
+uid57929,205914,Haemophilus somnus 129PT,1561,Host,Mesophile,Facultative
+uid57979,228400,Haemophilus somnus 2336,1685,Host,Mesophile,Facultative
+uid58483,349521,Hahella chejuensis KCTC 2396,5295,Fresh water,Mesophile,Aerobe
+uid60191,656519,Halanaerobium hydrogeniformans,1803,"Fresh water (Fresh water, Sediment)",Mesophile,Anaerobe (Obligate anaerobe)
+uid41425,502025,Haliangium ochraceum DSM 14365,4661,"Marine (Coastal, Marine, Sand)",Mesophile,Aerobe (Obligate aerobe)
+uid66777,760192,Haliscomenobacter hydrossis DSM 1100,4790,,,
+uid52781,768066,Halomonas elongata DSM 2581,2702,Fresh water,Mesophile,Facultative
+uid58473,349124,Halorhodospira halophila SL1,2029,"Fresh water (Fresh water, Mud)",Mesophile,Anaerobe
+uid58585,373903,Halothermothrix orenii H 168,1949,Fresh water,Thermophile,Anaerobe
+uid41317,555778,Halothiobacillus neapolitanus c2,2017,Other (Sewage plant),Mesophile,Aerobe
+uid58685,382638,Helicobacter acinonychis Sheeba,1296,Host,Mesophile,Aerobe
+uid68141,1002804,Helicobacter bizzozeronii CIII 1,1489,,,
+uid61409,936155,Helicobacter felis ATCC 49179,1390,Host,Mesophile,Aerobe
+uid57737,235279,Helicobacter hepaticus ATCC 51449,1676,"Host (Host, Intestinal microflora)",Mesophile,Aerobe
+uid46647,679897,Helicobacter mustelae 12198,1269,Host,Mesophile,Aerobe
+uid57787,85962,Helicobacter pylori 26695,1344,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid59415,592205,Helicobacter pylori B38,1229,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid49873,693745,Helicobacter pylori B8,1450,,,
+uid59305,563041,Helicobacter pylori G27,1301,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid58517,357544,Helicobacter pylori HPAG1,1310,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid57789,85963,Helicobacter pylori J99,1298,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid59327,570508,Helicobacter pylori P12,1336,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid53539,765963,Helicobacter pylori PeCan4,1365,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid59165,512562,Helicobacter pylori Shi470,1387,"Human (Host, Human stomach)",Mesophile,Aerobe
+uid53541,765962,Helicobacter pylori SJM180,1388,"Human (Human stomach, Host)",Mesophile,Aerobe
+uid58279,498761,Heliobacterium modesticaldum Ice1,2385,"Multi (Fresh water, Hot spring, Soil)",Thermophile,Anaerobe
+uid50427,757424,Herbaspirillum seropedicae SmR1,3264,"Multi (Host, Plant root, Root nodule, Soil)",Mesophile,Aerobe
+uid58291,204773,Herminiimonas arsenicoxydans,2673,Fresh water,Mesophile,Anaerobe
+uid58599,316274,Herpetosiphon aurantiacus DSM 785,3657,"Fresh water (Fresh water, Hot spring)",Mesophile,Aerobe
+uid65267,760142,Hippea maritima DSM 10411,1425,,,
+uid59365,582402,Hirschia baltica ATCC 49814,2625,Marine,Mesophile,Aerobe
+uid45927,608538,Hydrogenobacter thermophilus TK 6,1674,Other (Hot spring),Thermophile,Aerobe
+uid58857,380749,Hydrogenobaculum Y04AAS1,1439,Fresh water,Thermophile,Aerobe
+uid50325,582899,Hyphomicrobium denitrificans ATCC 51888,2908,Fresh water,Mesophile,Aerobe
+uid68453,717785,Hyphomicrobium MC1,3868,,,
+uid58433,228405,Hyphomonas neptunium ATCC 15444,2871,Marine,Mesophile,Aerobe
+uid58087,283942,Idiomarina loihiensis L2TR,2219,"Marine (Hydrothermal vent, Marine)",Psychrophile (Psychrotolerant),Aerobe
+uid59769,572544,Ilyobacter polytropus DSM 2926,1593,Marine,Mesophile,Anaerobe
+uid61729,710696,Intrasporangium calvum DSM 43043,2827,Other (Air),Mesophile,Aerobe
+uid67501,743718,Isoptericola variabilis 225,2326,,,
+uid62207,575540,Isosphaera pallida ATCC 43644,3019,"Fresh water (Fresh water, Hot spring)",Mesophile,Aerobe (Obligate aerobe)
+uid58147,290400,Jannaschia CCS1,3273,Marine,Mesophile,Aerobe (Obligate aerobe)
+uid58603,375286,Janthinobacterium Marseille,2780,Fresh water,Mesophile,
+uid59053,471856,Jonesia denitrificans DSM 20603,2066,Host,Mesophile,Facultative
+uid59209,523791,Kangiella koreensis DSM 16069,2313,Marine,Mesophile,Facultative
+uid59581,880591,Ketogulonicigenium vulgare Y25,2126,Other (Terrestrial),Mesophile,Anaerobe
+uid58067,266940,Kineococcus radiotolerans SRS30216,3238,Fresh water,Mesophile,Aerobe
+uid77027,452652,Kitasatospora setae KM 6054,4795,,,
+uid59145,507522,Klebsiella pneumoniae 342,3845,Host,Mesophile,Facultative
+uid57619,272620,Klebsiella pneumoniae MGH 78578,3364,"Multi (Fresh water, Host, Intestinal microflora, Mouth microflora, Skin microflora, Soil)",Mesophile,Facultative
+uid59073,484021,Klebsiella pneumoniae NTUH K2044,3566,"Multi (Fresh water, Host, Intestinal microflora, Mouth microflora, Skin microflora, Soil)",Mesophile,Facultative
+uid42113,640131,Klebsiella variicola At 22,3538,"Host (Host, Rhizosphere, Rhizosphere-colonizing)",Mesophile,
+uid59099,378753,Kocuria rhizophila DC2201,1975,"Multi (Host, Marine)",Mesophile,Aerobe
+uid59205,521045,Kosmotoga olearia TBF 19 5 1,1684,Fresh water,Mesophile,
+uid43465,479435,Kribbella flavida DSM 17836,4558,Soil,Mesophile,Aerobe (Obligate aerobe)
+uid66593,983548,Krokinobacter 4H 3 7 5,2569,,,
+uid59071,478801,Kytococcus sedentarius DSM 20547,2076,"Marine (Marine, Skin microflora)",Mesophile,Aerobe (Obligate aerobe)
+uid68067,983544,Lacinutrix 5H 3 7 4,2573,Other (Sea water),Psychrophile,Aerobe
+uid63605,891391,Lactobacillus acidophilus 30SC,1562,Host,Mesophile,Facultative
+uid57685,272621,Lactobacillus acidophilus NCFM,1431,"Host (Host, Intestinal microflora, Oral microflora, Vagina microflora)",Mesophile,Facultative
+uid61179,695560,Lactobacillus amylovorus GRL 1112,1580,Host,Mesophile,Facultative
+uid57989,387344,Lactobacillus brevis ATCC 367,1735,"Multi (Host, Intestinal microflora, Soil)",Mesophile,Aerobe
+uid66205,511437,Lactobacillus buchneri NRRL B 30929,1777,,,
+uid57985,321967,Lactobacillus casei ATCC 334,2127,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid59237,543734,Lactobacillus casei BL23,2268,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid50673,498216,Lactobacillus casei Zhang,2202,Host,Mesophile,Facultative
+uid48359,748671,Lactobacillus crispatus ST1,1501,"Human (Human vaginal microflora, Host)",Mesophile,Facultative
+uid58647,390333,Lactobacillus delbrueckii bulgaricus ATCC 11842,1260,"Host (Intestinal microflora, Host)",Mesophile,Facultative
+uid57987,321956,Lactobacillus delbrueckii bulgaricus ATCC BAA 365,1388,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid60621,767455,Lactobacillus delbrueckii bulgaricus ND02,1577,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid58865,334390,Lactobacillus fermentum IFO 3956,1447,"Human (Birds intestinal microflora, Host, Human intestinal microflora, Mammalian intestinal microflora)",Mesophile,Facultative
+uid57687,324831,Lactobacillus gasseri ATCC 33323,1395,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid58761,405566,Lactobacillus helveticus DPC 4571,1224,Other (Intestinal microflora),Mesophile,Facultative
+uid41735,633699,Lactobacillus johnsonii FI9785,1332,"Human (Host, Human vaginal microflora)",Mesophile,Aerobe (Microaerophilic)
+uid58029,257314,Lactobacillus johnsonii NCC 533,1439,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid67985,1033837,Lactobacillus kefiranofaciens ZW3,1494,Host,Mesophile,Facultative
+uid59361,644042,Lactobacillus plantarum JDM1,2188,Host,Mesophile,Aerobe (Microaerophilic)
+uid53537,889932,Lactobacillus plantarum ST III,2230,Other (Food),Mesophile,Aerobe (Microaerophilic)
+uid62911,220668,Lactobacillus plantarum WCFS1,2206,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid58471,557436,Lactobacillus reuteri DSM 20016,1487,,,
+uid58875,557433,Lactobacillus reuteri JCM 1112,1435,"Human (Birds intestinal microflora, Host, Human intestinal microflora, Mammalian intestinal microflora)",Mesophile,Facultative
+uid55357,491077,Lactobacillus reuteri SD2112,1591,"Human (Birds intestinal microflora, Host, Human intestinal microflora, Mammalian intestinal microflora)",Mesophile,Aerobe (Microaerophilic)
+uid59313,568703,Lactobacillus rhamnosus GG,2136,"Host (Host, Intestinal microflora)",Mesophile,Aerobe (Microaerophilic)
+uid59315,568704,Lactobacillus rhamnosus Lc 705,2123,"Human (Birds intestinal microflora, Host, Human intestinal microflora, Mammalian intestinal microflora)",Mesophile,Aerobe (Microaerophilic)
+uid73417,1069534,Lactobacillus ruminis ATCC 27782,1532,,,
+uid58281,314315,Lactobacillus sakei 23K,1547,"Other (Fresh meat, Intestinal microflora, Oral microflora, Vagina microflora)",Mesophile,Facultative
+uid58233,362948,Lactobacillus salivarius UCC118,1452,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid72937,714313,Lactobacillus sanfranciscensis TMW 1 1304,1013,,,
+uid73413,420889,Lactococcus garvieae ATCC 49156,1579,,,
+uid58837,416870,Lactococcus lactis cremoris MG1363,1887,,Mesophile,Facultative
+uid57983,272622,Lactococcus lactis cremoris SK11,1840,,Mesophile,Facultative
+uid57671,272623,Lactococcus lactis Il1403,1791,Host,Mesophile,Facultative
+uid42831,684738,Lactococcus lactis KF147,1949,"Host (Host, Plants)",Mesophile,Facultative
+uid59265,557598,Laribacter hongkongensis HLHK9,2590,"Host (Fish, Host)",Mesophile,Anaerobe
+uid61575,363253,Lawsonia intracellularis PHE MN1 00,1068,"Host (Host, Intestinal microflora)",Mesophile,Facultative
+uid60161,649349,Leadbetterella byssophila DSM 17132,2801,,Mesophile,Aerobe
+uid46099,661367,Legionella longbeachae NSW150,2835,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid48801,423212,Legionella pneumophila 2300 99 Alcoy,2646,"Multi (Biofilm, Fresh water, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58733,400673,Legionella pneumophila Corby,2645,"Multi (Biofilm, Fresh water, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58209,297245,Legionella pneumophila Lens,2435,"Multi (Biofilm, Fresh water, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58211,297246,Legionella pneumophila Paris,2522,"Multi (Biofilm, Fresh water, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57609,272624,Legionella pneumophila Philadelphia 1,2447,"Multi (Biofilm, Fresh water, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57759,281090,Leifsonia xyli CTCB07,1689,Host,Mesophile,Aerobe
+uid58511,355278,Leptospira biflexa serovar Patoc Patoc 1 Ames,2763,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58993,456481,Leptospira biflexa serovar Patoc Patoc 1 Pari,2866,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58509,355277,Leptospira borgpetersenii serovar Hardjo bovis JB197,2238,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58507,355276,Leptospira borgpetersenii serovar Hardjo bovis L550,2261,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58065,267671,Leptospira interrogans serovar Copenhageni Fiocruz L1 130,2837,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57881,189518,Leptospira interrogans serovar Lai 56601,2781,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58971,395495,Leptothrix cholodnii SP 6,3213,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid59211,523794,Leptotrichia buccalis C 1013 b,1802,"Human (Blood, Human oral microflora, Host)",Mesophile,Anaerobe
+uid68743,979982,Leuconostoc C2,1551,,,
+uid58481,349519,Leuconostoc citreum KM20,1391,,Psychrophile (Psychrotrophic),Facultative
+uid50385,762550,Leuconostoc gasicomitatum LMG 18811,1572,,Psychrophile (Psychrotrophic),Facultative
+uid48589,762051,Leuconostoc kimchii IMSNU 11154,1674,,Psychrophile (Psychrotrophic),Facultative
+uid57919,203120,Leuconostoc mesenteroides ATCC 8293,1592,,Mesophile,Facultative
+uid61567,272626,Listeria innocua Clip11262,2314,Soil,Mesophile,Facultative
+uid73473,881621,Listeria ivanovii PAM 55,2088,,,
+uid43671,653938,Listeria monocytogenes,2356,"Multi (Fresh water, Food, Soil, Intestinal microflora, Host)",Mesophile,Facultative
+uid43727,637381,Listeria monocytogenes 08 5923,2328,"Multi (Food, Fresh water, Intestinal microflora, Soil, Host)",Mesophile,Facultative
+uid59317,568819,Listeria monocytogenes Clip80459,2149,,,
+uid61583,169963,Listeria monocytogenes EGD e,2217,"Multi (Food, Fresh water, Intestinal microflora, Soil)",Mesophile,Facultative
+uid59203,552536,Listeria monocytogenes HCC23,2350,"Multi (Food, Fresh water, Intestinal microflora, Soil, Host)",Mesophile,Facultative
+uid57689,265669,Listeria monocytogenes serotype 4b F2365,2219,"Multi (Food, Intestinal microflora, Soil, Host)",Mesophile,Facultative
+uid46215,683837,Listeria seeligeri serovar 1 2b SLCC3954,2171,,Mesophile,Facultative
+uid61605,386043,Listeria welshimeri serovar 6b SLCC5334,2202,"Multi (Fresh water, Soil, Food)",Mesophile,Facultative
+uid58945,444177,Lysinibacillus sphaericus C3 41,3472,"Multi (Host, Mosquito, Soil)",Mesophile,Aerobe
+uid59003,458233,Macrococcus caseolyticus JCSC5402,1680,Host,Mesophile,Facultative
+uid57833,156889,Magnetococcus MC 1,2573,Marine,Mesophile,Facultative
+uid58527,342108,Magnetospirillum magneticum AMB 1,3309,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid66917,697281,Mahella australiensis 50 1 BON,2189,,,
+uid58197,221988,Mannheimia succiniciproducens MBEL55E,2027,"Host (Bovine rumen, Host)",Mesophile,Anaerobe
+uid58689,394221,Maricaulis maris MCS10,2579,Fresh water,Mesophile,Facultative
+uid65783,869210,Marinithermus hydrothermalis DSM 14884,1841,,,
+uid59419,351348,Marinobacter aquaeolei VT8,2957,Marine,Mesophile,Facultative
+uid64753,717774,Marinomonas mediterranea MMB 1,3203,,,
+uid58715,400668,Marinomonas MWYL1,3214,Marine,Mesophile,Aerobe
+uid67323,491952,Marinomonas posidonica IVIA Po 181,2712,,,
+uid60837,643867,Marivirga tractuosa DSM 4126,3145,,Mesophile,Aerobe (Obligate aerobe)
+uid71135,1064535,Megasphaera elsdenii DSM 20460,1803,,,
+uid46661,504728,Meiothermus ruber DSM 1279,2424,,Thermophile,Aerobe (Obligate aerobe)
+uid49485,526227,Meiothermus silvanus DSM 9946,2415,Other (Hot spring),Thermophile,Aerobe
+uid66803,940190,Melissococcus plutonius ATCC 35311,1413,,,
+uid58055,265311,Mesoplasma florum L1,608,Host,Mesophile,Facultative
+uid62101,765698,Mesorhizobium ciceri biovar biserrulae WSM1271,4046,"Multi (Host, Plant root, Rhizosphere, Root nodule, Soil)",Mesophile,Aerobe
+uid57601,266835,Mesorhizobium loti MAFF303099,4520,Host,Mesophile,Aerobe
+uid40861,536019,Mesorhizobium opportunistum WSM2075,4384,"Host (Host, Rhizosphere, Root nodule)",Mesophile,Aerobe
+uid59161,481448,Methylacidiphilum infernorum V4,2151,Other (Hot spring),Thermophile,Aerobe
+uid58085,420662,Methylibium petroleiphilum PM1,2979,"Multi (Fresh water, Fresh water, Sludge)",Mesophile,Facultative
+uid58049,265072,Methylobacillus flagellatus KT,2129,Other (Sludge),Mesophile,Aerobe
+uid58843,426117,Methylobacterium 4 46,4503,,Mesophile,Aerobe
+uid58933,440085,Methylobacterium chloromethanicum CM4,3794,Soil,Mesophile,Aerobe
+uid57605,272630,Methylobacterium extorquens AM1,3753,,Mesophile,Aerobe
+uid61617,661410,Methylobacterium extorquens DM4,4032,,Mesophile,Aerobe
+uid58821,419610,Methylobacterium extorquens PA1,3500,,Mesophile,Facultative
+uid59023,460265,Methylobacterium nodulans ORS 2060,4756,"Host (Host, Plant root, Root nodule)",Mesophile,Aerobe
+uid58937,441620,Methylobacterium populi BJ001,3947,"Host (Endophyte, Host)",Mesophile,Aerobe
+uid58845,426355,Methylobacterium radiotolerans JCM 2831,4094,Host,Mesophile,Aerobe
+uid59433,395965,Methylocella silvestris BL2,3044,,Psychrophile (Psychrotolerant),Aerobe
+uid57607,243233,Methylococcus capsulatus Bath,2489,,Thermophile,Aerobe
+uid77119,271065,Methylomicrobium alcaliphilum,3089,,,
+uid67363,857087,Methylomonas methanica MC09,3500,,,
+uid49469,666681,Methylotenera 301,2253,,,
+uid59373,583345,Methylotenera mobilis JLW8,1962,,Mesophile,Aerobe
+uid59367,582744,Methylovorus glucosetrophus SIP3 4,2296,Fresh water,Mesophile,Aerobe
+uid60723,887061,Methylovorus MP688,2207,"Soil (Air, Soil, Wastewater)",Mesophile,Facultative
+uid73585,856793,Micavibrio aeruginosavorus ARL 13,2138,,,
+uid62789,979556,Microbacterium testaceum StLB037,2775,,,
+uid59033,465515,Micrococcus luteus NCTC 2665,1845,Soil,Mesophile,Aerobe
+uid59101,449447,Microcystis aeruginosa NIES 843,3855,"Multi (Fresh water, Fresh water, Host)",Mesophile,Aerobe
+uid68055,1032480,Microlunatus phosphovorus NM 1,3885,Other (Sludge),Mesophile,Aerobe
+uid42501,644283,Micromonospora aurantiaca ATCC 27029,4360,Soil,Mesophile,Aerobe
+uid45895,648999,Micromonospora L5,4321,Soil,Mesophile,Aerobe
+uid49695,548479,Mobiluncus curtisii ATCC 43063,1647,Host,Mesophile,Anaerobe
+uid58051,264732,Moorella thermoacetica ATCC 39073,1978,"Fresh water (Fresh water, Ponds)",Thermophile,Anaerobe
+uid48809,749219,Moraxella catarrhalis RH4,1722,Host,Mesophile,Aerobe
+uid72479,886377,Muricauda ruestringensis DSM 13258,2801,,,
+uid61613,561007,Mycobacterium abscessus ATCC 19977,3493,,,
+uid68839,572418,Mycobacterium africanum GM041182,2734,Host,Mesophile,Aerobe
+uid57693,243243,Mycobacterium avium 104,3305,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57699,262316,Mycobacterium avium paratuberculosis K 10,2873,Host,Mesophile,Aerobe
+uid57695,233413,Mycobacterium bovis AF2122 97,2767,Host,Mesophile,Aerobe
+uid58781,410289,Mycobacterium bovis BCG Pasteur 1173P2,2757,Host,Mesophile,Aerobe
+uid59281,561275,Mycobacterium bovis BCG Tokyo 172,2763,Host,Mesophile,Aerobe
+uid70731,1048245,Mycobacterium canettii,2718,,,
+uid59421,350054,Mycobacterium gilvum PYR GCK,3485,Soil,Mesophile,Aerobe
+uid67369,875328,Mycobacterium JDM601,2953,"Human (Host, Human skin)",Mesophile,Aerobe
+uid58489,164757,Mycobacterium JLS,3736,"Soil (Soil, Creosote-contaminated soil)",Mesophile,Aerobe
+uid58491,189918,Mycobacterium KMS,3659,"Soil (Creosote-contaminated soil, Soil)",Mesophile,Aerobe
+uid59293,561304,Mycobacterium leprae Br4923,1393,Host,Mesophile,Aerobe
+uid57697,272631,Mycobacterium leprae TN,1394,Host,Mesophile,Aerobe
+uid59423,216594,Mycobacterium marinum M,3455,Host,Mesophile,Aerobe
+uid58465,164756,Mycobacterium MCS,3634,"Soil (Creosote-contaminated soil, Soil)",Mesophile,Aerobe
+uid57701,246196,Mycobacterium smegmatis MC2 155,4267,Host,Mesophile,Aerobe
+uid61403,278137,Mycobacterium Spyr1,3489,"Soil (Creosote-contaminated soil, Soil)",Mesophile,Aerobe
+uid57775,83331,Mycobacterium tuberculosis CDC1551,3055,Host,Mesophile,Aerobe
+uid58417,336982,Mycobacterium tuberculosis F11,2753,Host,Mesophile,Aerobe
+uid58853,419947,Mycobacterium tuberculosis H37Ra,2822,Host,Mesophile,Aerobe
+uid57777,83332,Mycobacterium tuberculosis H37Rv,2800,Host,Mesophile,Aerobe
+uid59069,478434,Mycobacterium tuberculosis KZN 1435,2844,Host,Mesophile,Aerobe
+uid62939,362242,Mycobacterium ulcerans Agy99,2800,"Multi (Host, Fresh water)",Mesophile,Aerobe
+uid58463,350058,Mycobacterium vanbaalenii PYR 1,3905,Other (Sediment),Mesophile,Aerobe
+uid46679,2110,Mycoplasma agalactiae,631,Host,Mesophile,Facultative
+uid61619,347257,Mycoplasma agalactiae PG2,606,Host,Mesophile,Facultative
+uid58005,243272,Mycoplasma arthritidis 158L3 1,552,Host,Mesophile,Facultative
+uid68691,956483,Mycoplasma bovis Hubei 1,629,Host,Mesophile,Facultative
+uid60859,289397,Mycoplasma bovis PG45,634,Host,Mesophile,Facultative
+uid58525,340047,Mycoplasma capricolum ATCC 27343,652,Host,Mesophile,Facultative
+uid59325,572263,Mycoplasma conjunctivae HRC 581,613,,,
+uid47087,512564,Mycoplasma crocodyli MP145,631,Host,Mesophile,Facultative
+uid53543,637387,Mycoplasma fermentans JER,688,Host,Mesophile,Facultative
+uid62099,943945,Mycoplasma fermentans M64,793,Host,Mesophile,Facultative
+uid57993,710127,Mycoplasma gallisepticum R low,613,,,
+uid57707,243273,Mycoplasma genitalium G37,443,"Host (Host, Urogenital tract)",Mesophile,Facultative
+uid62461,941640,Mycoplasma haemofelis Langford 1,507,Host,Mesophile,Facultative
+uid41875,347256,Mycoplasma hominis ATCC 23114,483,,,
+uid58205,295358,Mycoplasma hyopneumoniae 232,574,Host,Mesophile,Facultative
+uid58039,262722,Mycoplasma hyopneumoniae 7448,553,Host,Mesophile,Facultative
+uid58059,262719,Mycoplasma hyopneumoniae J,540,Host,Mesophile,Facultative
+uid51695,872331,Mycoplasma hyorhinis HUB 1,548,Host,Mesophile,Facultative
+uid60849,880447,Mycoplasma leachii PG50,675,Host,Mesophile,Facultative
+uid58077,267748,Mycoplasma mobile 163K,572,Host,Mesophile,Facultative
+uid66189,862259,Mycoplasma mycoides capri LC 95010,694,Host,Mesophile,Anaerobe
+uid58031,272632,Mycoplasma mycoides SC PG1,667,Host,Mesophile,Facultative
+uid57729,272633,Mycoplasma penetrans HF 2,785,Host,Mesophile,Facultative
+uid57709,272634,Mycoplasma pneumoniae M129,517,Host,Mesophile,Facultative
+uid61569,272635,Mycoplasma pulmonis UAB CTIP,670,Host,Mesophile,Facultative
+uid72481,743965,Mycoplasma putrefaciens KS1,576,,,
+uid61897,768700,Mycoplasma suis Illinois,515,Host,Mesophile,Facultative
+uid63665,708248,Mycoplasma suis KI3806,517,,,
+uid58061,262723,Mycoplasma synoviae 53,530,Host,Mesophile,Facultative
+uid68443,483219,Myxococcus fulvus HW 1,5220,Marine,Mesophile,Aerobe
+uid58003,246197,Myxococcus xanthus DK 1622,5351,"Soil (Soil, Terrestrial)",Mesophile,Aerobe (Obligate aerobe)
+uid59221,479431,Nakamurella multipartita DSM 44233,3751,Other (Sludge),Mesophile,Aerobe
+uid59001,457570,Natranaerobius thermophilus JW NM WN LF,2233,Fresh water,Thermophile,Anaerobe (Obligate anaerobe)
+uid59345,598659,Nautilia profundicola AmH,1532,"Multi (Fresh water, Hydrothermal vent, Host)",Thermophile,Anaerobe (Obligate anaerobe)
+uid57611,242231,Neisseria gonorrhoeae FA 1090,1716,Host,Mesophile,Aerobe
+uid59191,521006,Neisseria gonorrhoeae NCCP11945,2142,Host,Mesophile,Aerobe
+uid60851,489653,Neisseria lactamica 020 06,1727,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Aerobe
+uid58587,374833,Neisseria meningitidis 053442,1690,Host,Mesophile,Aerobe
+uid61649,662598,Neisseria meningitidis alpha14,1655,Host,Mesophile,Aerobe
+uid57825,272831,Neisseria meningitidis FAM18,1637,Host,Mesophile,Aerobe
+uid57817,122586,Neisseria meningitidis MC58,1740,"Host (Host, Nasopharyngeal microflora)",Mesophile,Aerobe
+uid57819,122587,Neisseria meningitidis Z2491,1635,"Host (Host, Nasopharyngeal microflora)",Mesophile,Aerobe
+uid58889,434131,Neorickettsia risticii Illinois,830,Host,Mesophile,Aerobe
+uid57965,222891,Neorickettsia sennetsu Miyayama,886,Host,Mesophile,Aerobe
+uid62183,749222,Nitratifractor salsuginis DSM 16511,1852,"Marine (Hydrothermal vent, Marine)",Mesophile,Anaerobe
+uid58861,387092,Nitratiruptor SB155 2,1629,"Marine (Deep sea, Hydrothermal vent, Marine)",Thermophile,Anaerobe
+uid58293,323097,Nitrobacter hamburgensis X14,2966,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid58295,323098,Nitrobacter winogradskyi Nb 255,2415,"Soil (Soil, Terrestrial)",Mesophile,Facultative
+uid46803,472759,Nitrosococcus halophilus Nc4,3042,Marine,Mesophile,Aerobe
+uid58403,323261,Nitrosococcus oceani ATCC 19707,2472,Marine,Mesophile,Aerobe
+uid50331,105559,Nitrosococcus watsonii C 113,2424,Marine,Mesophile,Aerobe
+uid55727,153948,Nitrosomonas AL212,2252,Soil,Mesophile,Aerobe
+uid57647,228410,Nitrosomonas europaea ATCC 19718,1993,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid58363,335283,Nitrosomonas eutropha C91,1961,Fresh water,Mesophile,Aerobe
+uid68745,261292,Nitrosomonas Is79A3,2646,Fresh water,Mesophile,Aerobe
+uid58361,323848,Nitrosospira multiformis ATCC 25196,2200,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid58203,247156,Nocardia farcinica IFM 10152,4031,"Multi (Fresh water, Soil, Host)",Mesophile,Aerobe
+uid58149,196162,Nocardioides JS614,3345,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid49483,446468,Nocardiopsis dassonvillei DSM 43111,3369,"Host (Blood, Host)",Mesophile,Aerobe
+uid49725,551115,Nostoc azollae 0708,2873,Host,Mesophile,Aerobe
+uid57803,103690,Nostoc PCC 7120,3817,Soil,Mesophile,Aerobe
+uid57767,63737,Nostoc punctiforme PCC 73102,4136,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid57747,279238,Novosphingobium aromaticivorans DSM 12444,2679,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe (Obligate aerobe)
+uid67383,702113,Novosphingobium PP1Y,2642,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe (Obligate aerobe)
+uid60855,670487,Oceanithermus profundus DSM 14977,1895,"Marine (Deep sea, Hydrothermal vent, Marine)",Thermophile,Aerobe (Microaerophilic)
+uid57867,221109,Oceanobacillus iheyensis HTE831,2737,Soil,Mesophile,Aerobe
+uid58921,439375,Ochrobactrum anthropi ATCC 49188,2261,"Multi (Host, Sludge, Soil, Terrestrial)",Mesophile,Aerobe
+uid63397,709991,Odoribacter splanchnicus DSM 20712,2630,Host,Mesophile,Anaerobe
+uid59417,203123,Oenococcus oeni PSU 1,1376,,Mesophile,Facultative
+uid59155,504832,Oligotropha carboxidovorans OM5,2984,,Mesophile,
+uid72795,504832,Oligotropha carboxidovorans OM5,2660,,Mesophile,
+uid51367,633147,Olsenella uli DSM 7084,1425,Host,Mesophile,Anaerobe
+uid58015,262768,Onion yellows phytoplasma OY M,460,Host,Mesophile,Aerobe
+uid58965,452637,Opitutus terrae PB90 1,3474,Soil,Mesophile,Anaerobe (Obligate anaerobe)
+uid61621,357244,Orientia tsutsugamushi Boryong,716,Host,Mesophile,Aerobe
+uid58869,334380,Orientia tsutsugamushi Ikeda,734,Host,Mesophile,Aerobe
+uid73895,693746,Oscillibacter valericigenes,3144,,,
+uid59021,324057,Paenibacillus JDR 2,4104,"Host (Host, Wood)",Mesophile,Aerobe
+uid68311,1036673,Paenibacillus mucilaginosus KNP414,5344,,Mesophile,
+uid53477,349520,Paenibacillus polymyxa E681,3440,Other (Rhizosphere),Mesophile,
+uid59583,886882,Paenibacillus polymyxa SC2,3993,Other (Rhizosphere),Mesophile,
+uid41127,481743,Paenibacillus Y412MC10,4238,,Mesophile,Facultative
+uid60725,694427,Paludibacter propionicigenes WB4,2537,Soil,Mesophile,Anaerobe
+uid46807,706191,Pantoea ananatis LMG 20103,3187,Host,Mesophile,Facultative
+uid55845,592316,Pantoea At 9b,2957,Host,Mesophile,Facultative
+uid49871,712898,Pantoea vagans C9 1,2881,Host,Mesophile,Facultative
+uid58301,435591,Parabacteroides distasonis ATCC 8503,2815,"Host (Host, Intestinal microflora)",Mesophile,Anaerobe
+uid68335,765952,Parachlamydia acanthamoebae UV7,2350,,Mesophile,
+uid58187,318586,Paracoccus denitrificans PD1222,2204,"Soil (Soil, Sewage plant)",Mesophile,Aerobe
+uid58739,402881,Parvibaculum lavamentivorans DS 1,2816,Other (Sludge),Mesophile,Aerobe
+uid51641,314260,Parvularcula bermudensis HTCC2503,2295,Marine,Mesophile,Aerobe
+uid57627,272843,Pasteurella multocida Pm70,1740,Host,Mesophile,Facultative
+uid57957,218491,Pectobacterium atrosepticum SCRI1043,3361,Host,Mesophile,Facultative
+uid59295,561230,Pectobacterium carotovorum PC1,3197,Host,Mesophile,Facultative
+uid41297,561231,Pectobacterium wasabiae WPP163,3367,Host,Mesophile,Facultative
+uid57981,278197,Pediococcus pentosaceus ATCC 25745,1466,"Other (Fruits, Plants)",Mesophile,Facultative
+uid59111,485917,Pedobacter heparinus DSM 2366,3053,Soil,Mesophile,Aerobe
+uid61349,762903,Pedobacter saltans DSM 12145,2952,Soil,Mesophile,Aerobe
+uid74393,1082931,Pelagibacterium halotolerans B2,2903,,,
+uid58241,338963,Pelobacter carbinolicus DSM 2380,2656,"Multi (Fresh water, Marine, Sludge)",Mesophile,Anaerobe
+uid58255,338966,Pelobacter propionicus DSM 2379,2748,"Multi (Fresh water, Marine)",Mesophile,Anaerobe
+uid58173,324925,Pelodictyon phaeoclathratiforme BU 1,2190,"Multi (Fresh water, Marine)",Mesophile,Anaerobe
+uid58877,370438,Pelotomaculum thermopropionicum SI,2230,Other (Sludge),Thermophile,Anaerobe
+uid58119,123214,Persephonella marina EX H1,1756,Marine,Thermophile,Aerobe (Microaerophilic)
+uid58747,403833,Petrotoga mobilis SJ95,1542,"Marine (Marine, Oil fields)",Thermophile,Anaerobe
+uid58959,450851,Phenylobacterium zucineum HLK1,2692,Host,Mesophile,Aerobe
+uid62923,298386,Photobacterium profundum SS9,2644,Marine,Psychrophile (Psychrotolerant),Facultative
+uid59243,553480,Photorhabdus asymbiotica ATCC 43949,3092,,,
+uid61593,243265,Photorhabdus luminescens laumondii TTO1,3336,Host,Mesophile,Facultative
+uid43209,530564,Pirellula staleyi DSM 6068,3783,Fresh water,Mesophile,Aerobe
+uid60583,756272,Planctomyces brasiliensis DSM 5305,3681,"Multi (Fresh water, Marine)",Mesophile,Aerobe
+uid48643,521674,Planctomyces limnophilus DSM 3776,3486,"Multi (Fresh water, Marine)",Mesophile,Aerobe
+uid58207,296591,Polaromonas JS666,3363,Fresh water,Mesophile,Aerobe
+uid58273,365044,Polaromonas naphthalenivorans CJ2,3063,Fresh water,Mesophile,Aerobe
+uid65447,991905,Polymorphum gilvum SL003B 26A1,3203,,,
+uid58611,312153,Polynucleobacter necessarius asymbioticus QLW P1DMWA 1,1768,"Multi (Host, Fresh water)",Mesophile,Aerobe
+uid58967,452638,Polynucleobacter necessarius STIR1,1311,"Multi (Endosymbiont, Fresh water, Fresh water, Host)",Mesophile,Aerobe
+uid66603,879243,Porphyromonas asaccharolytica DSM 20707,1445,,,
+uid58879,431947,Porphyromonas gingivalis ATCC 33277,1709,"Host (Colon, Gastrointestinal tract, Host, Oral microflora, Respiratory tract)",Mesophile,Anaerobe
+uid67407,1030843,Porphyromonas gingivalis TDC60,1777,"Host (Colon, Gastrointestinal tract, Host, Oral microflora, Respiratory tract)",Mesophile,Anaerobe
+uid57641,242619,Porphyromonas gingivalis W83,1652,"Host (Gastrointestinal tract, Colon, Host, Oral microflora, Respiratory tract)",Mesophile,Anaerobe
+uid65091,767031,Prevotella denticola F0289,2062,"Human (Human oral microflora, Host)",Mesophile,Anaerobe
+uid51377,553174,Prevotella melaninogenica ATCC 25845,1229,"Human (Host, Human oral microflora)",Mesophile,Anaerobe
+uid47507,264731,Prevotella ruminicola 23,2199,Host,Mesophile,Anaerobe
+uid58307,146891,Prochlorococcus marinus AS9601,1745,Marine,Mesophile,
+uid57995,167539,Prochlorococcus marinus CCMP1375,1705,Marine,Mesophile,
+uid58309,93059,Prochlorococcus marinus MIT 9211,1677,Marine,Mesophile,
+uid58819,93060,Prochlorococcus marinus MIT 9215,1786,Marine,Mesophile,
+uid58437,167546,Prochlorococcus marinus MIT 9301,1733,Marine,Mesophile,
+uid58305,59922,Prochlorococcus marinus MIT 9303,2557,Marine,Mesophile,
+uid58357,74546,Prochlorococcus marinus MIT 9312,1616,Marine,Mesophile,
+uid57773,74547,Prochlorococcus marinus MIT 9313,1936,Marine,Mesophile,
+uid58313,167542,Prochlorococcus marinus MIT 9515,1730,"Marine (Marine, Surface water)",Mesophile,
+uid58423,167555,Prochlorococcus marinus NATL1A,1934,Marine,Mesophile,
+uid58359,59920,Prochlorococcus marinus NATL2A,1896,Marine,Mesophile,
+uid57761,59919,Prochlorococcus marinus pastoris CCMP1986,1541,Marine,Mesophile,
+uid58101,267747,Propionibacterium acnes KPA171202,1901,"Human (Host, Human skin)",Mesophile,Anaerobe
+uid48071,553199,Propionibacterium acnes SK137,1930,"Human (Host, Human skin)",Mesophile,Anaerobe
+uid49535,754252,Propionibacterium freudenreichii shermanii CIRM BIA1,1937,,Mesophile,Anaerobe
+uid58151,290512,Prosthecochloris aestuarii DSM 271,1930,Fresh water,Mesophile,
+uid61599,529507,Proteus mirabilis HI4320,2934,"Host (Intestinal microflora, Host)",Mesophile,Facultative
+uid58283,342610,Pseudoalteromonas atlantica T6c,3384,Fresh water,Mesophile,Aerobe
+uid58431,326442,Pseudoalteromonas haloplanktis TAC125,2486,"Marine (Coastal, Marine)",Psychrophile,Aerobe
+uid61247,234831,Pseudoalteromonas SM9913,2574,"Marine (Marine, Coastal)",Psychrophile (Psychrotolerant),Aerobe
+uid73423,748280,Pseudogulbenkiania NH8B,3028,,,
+uid59275,557722,Pseudomonas aeruginosa LESB58,4271,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58627,381754,Pseudomonas aeruginosa PA7,4612,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57945,208964,Pseudomonas aeruginosa PAO1,3981,"Multi (Fresh water, Host, Soil, Wastewater)",Mesophile,Aerobe
+uid57977,208963,Pseudomonas aeruginosa UCBPP PA14,4260,"Multi (Fresh water, Host, Soil, Wastewater)",Mesophile,Aerobe
+uid66303,994484,Pseudomonas brassicacearum NFM421,4224,Other (Root nodule),,
+uid58639,384676,Pseudomonas entomophila L48,3740,"Fresh water (Wastewater, Fresh water)",Mesophile,Aerobe
+uid57937,220664,Pseudomonas fluorescens Pf 5,4304,"Multi (Soil, Fresh water)",Mesophile,Aerobe
+uid57591,205922,Pseudomonas fluorescens Pf0 1,4022,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid62971,216595,Pseudomonas fluorescens SBW25,4107,,Mesophile,Aerobe
+uid67351,743720,Pseudomonas fulva 12 X,3345,,,
+uid66299,1001585,Pseudomonas mendocina NK 01,3657,"Multi (Blood, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58723,399739,Pseudomonas mendocina ymp,3422,"Multi (Blood, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58355,351746,Pseudomonas putida F1,3694,Soil,Mesophile,Aerobe
+uid58735,76869,Pseudomonas putida GB 1,3787,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid57843,160488,Pseudomonas putida KT2440,3761,Soil,Mesophile,Aerobe
+uid68747,1042876,Pseudomonas putida S16,3598,"Soil (Soil, Wastewater)",Mesophile,Facultative
+uid58651,390235,Pseudomonas putida W619,3670,"Multi (Soil, Endophyte, Host)",Mesophile,Aerobe
+uid58641,379731,Pseudomonas stutzeri A1501,3142,"Multi (Host, Rice roots, Soil)",Mesophile,Aerobe
+uid68749,96563,Pseudomonas stutzeri ATCC 17588 LMG 11199,3241,"Multi (Host, Marine, Rice roots, Soil)",Mesophile,Aerobe
+uid57931,205918,Pseudomonas syringae B728a,3715,Other (Plants),Mesophile,Aerobe
+uid58099,264730,Pseudomonas syringae phaseolicola 1448A,3594,Other (Plants),Mesophile,Aerobe
+uid57967,223283,Pseudomonas syringae tomato DC3000,3893,"Multi (Endophyte, Fresh water, Host, Soil)",Mesophile,Aerobe
+uid65087,675635,Pseudonocardia dioxanivorans CB1190,4175,"Fresh water (Fresh water, Sludge)",Mesophile,Aerobe
+uid75113,1045855,Pseudoxanthomonas spadix BD a59,2618,,,
+uid62105,743721,Pseudoxanthomonas suwonensis 11 1,2596,,,Aerobe
+uid58021,259536,Psychrobacter arcticus 273 4,1833,"Multi (Fish, Fresh water, Soil)",Psychrophile,Aerobe
+uid58373,335284,Psychrobacter cryohalolentis K5,2046,Fresh water,Psychrophile,Aerobe
+uid58459,349106,Psychrobacter PRwf 1,1950,"Multi (Marine, Permafrost sediment, Soil, Host)",Psychrophile,Aerobe
+uid58521,357804,Psychromonas ingrahamii 37,2794,"Marine (Deep sea, Marine)",Psychrophile,Anaerobe
+uid66391,1007105,Pusillimonas T7 7,2676,,,
+uid62715,741091,Rahnella Y9602,3233,"Multi (Fresh water, Host, Human intestinal microflora)",Mesophile,Facultative
+uid62925,381666,Ralstonia eutropha H16,2666,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid58047,264198,Ralstonia eutropha JMP134,2595,"Multi (Fresh water, Soil)",Mesophile,Aerobe
+uid58859,428406,Ralstonia pickettii 12D,2737,"Multi (Fresh water, Host, Soil)",Mesophile,Aerobe
+uid58737,402626,Ralstonia pickettii 12J,2868,"Multi (Fresh water, Host, Sediment, Soil)",Mesophile,Aerobe
+uid50545,859656,Ralstonia solanacearum CFBP2957,2669,,,
+uid57593,267608,Ralstonia solanacearum GMI1000,2734,Soil,Mesophile,Aerobe
+uid50539,859657,Ralstonia solanacearum PSI07,2680,,,
+uid68279,365046,Ramlibacter tataouinensis TTB310,2892,Soil,Mesophile,Aerobe
+uid58899,288705,Renibacterium salmoninarum ATCC 33209,2428,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid58377,347834,Rhizobium etli CFN 42,3033,"Host (Host, Plant root, Root nodule)",Mesophile,Aerobe
+uid59115,491916,Rhizobium etli CIAT 652,3348,"Host (Host, Plant root, Root nodule)",Mesophile,Aerobe
+uid58991,395491,Rhizobium leguminosarum bv trifolii WSM1325,3356,"Multi (Host, Plant root, Root nodule, Soil)",Mesophile,Aerobe
+uid58997,395492,Rhizobium leguminosarum bv trifolii WSM2304,3306,"Multi (Host, Plant root, Root nodule, Soil)",Mesophile,Aerobe
+uid57955,216596,Rhizobium leguminosarum bv viciae 3841,3424,"Host (Plant root, Root nodule, Host)",Mesophile,Aerobe
+uid59081,394,Rhizobium NGR234,2799,"Host (Host, Plant root, Root nodule)",Mesophile,Aerobe
+uid47509,272942,Rhodobacter capsulatus SB 1003,2792,,Mesophile,Facultative
+uid57653,272943,Rhodobacter sphaeroides 2 4 1,2452,,Mesophile,Facultative
+uid58451,349102,Rhodobacter sphaeroides ATCC 17025,2432,,Mesophile,Facultative
+uid58449,349101,Rhodobacter sphaeroides ATCC 17029,2420,,Mesophile,Facultative
+uid59277,557760,Rhodobacter sphaeroides KD131,2505,,Mesophile,Facultative
+uid60171,685727,Rhodococcus equi 103S,3166,Host,Mesophile,Aerobe
+uid59019,234621,Rhodococcus erythropolis PR4,4002,Marine,Mesophile,Aerobe
+uid58325,101510,Rhodococcus jostii RHA1,4340,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid13791,632772,Rhodococcus opacus B4,4269,,Mesophile,Aerobe
+uid58353,338969,Rhodoferax ferrireducens T118,3055,,Psychrophile (Psychrotolerant),Anaerobe
+uid43247,648757,Rhodomicrobium vannielii ATCC 17100,2826,,Mesophile,
+uid61589,243090,Rhodopirellula baltica SH 1,5918,Marine,Mesophile,Aerobe
+uid58445,316055,Rhodopseudomonas palustris BisA53,3616,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid58443,316056,Rhodopseudomonas palustris BisB18,3584,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid58441,316057,Rhodopseudomonas palustris BisB5,3260,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid62901,258594,Rhodopseudomonas palustris CGA009,3435,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid43327,652103,Rhodopseudomonas palustris DX 1,3615,"Multi (Soil, Fresh water)",Mesophile,Facultative
+uid58439,316058,Rhodopseudomonas palustris HaA2,3393,"Multi (Fresh water, Soil)",Mesophile,Facultative
+uid58995,395960,Rhodopseudomonas palustris TIE 1,3806,Soil,Mesophile,Facultative
+uid58805,414684,Rhodospirillum centenum SW,3224,Fresh water,Mesophile,Facultative
+uid57655,269796,Rhodospirillum rubrum ATCC 11170,2865,Fresh water,Mesophile,Facultative
+uid41729,518766,Rhodothermus marinus DSM 4252,2323,"Marine (Marine, Hot spring)",Thermophile,Aerobe
+uid72767,762570,Rhodothermus marinus SG0 5JP17 172,2319,,,
+uid58799,347255,Rickettsia africae ESF 5,933,Host,Mesophile,Aerobe
+uid58161,293614,Rickettsia akari Hartford,1059,Host,Mesophile,Aerobe
+uid58681,391896,Rickettsia bellii OSU 85 389,1215,Host,Mesophile,Aerobe
+uid58405,336407,Rickettsia bellii RML369 C,1158,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,Aerobe
+uid58159,293613,Rickettsia canadensis McKiel,962,Host,Mesophile,Aerobe
+uid57633,272944,Rickettsia conorii Malish 7,1060,Host,Mesophile,Aerobe
+uid58331,315456,Rickettsia felis URRWXCal2,1120,Host,Mesophile,Aerobe
+uid70839,1032845,Rickettsia heilongjiangensis 054,1084,,,
+uid73963,652620,Rickettsia japonica YH,883,,,
+uid58801,416276,Rickettsia massiliae MTU5,878,Host,Mesophile,Aerobe
+uid59301,562019,Rickettsia peacockii Rustic,835,Host,Mesophile,Aerobe
+uid61565,272947,Rickettsia prowazekii Madrid E,763,Host,Mesophile,Aerobe
+uid58961,452659,Rickettsia rickettsii Iowa,1127,Host,Mesophile,Aerobe
+uid58027,392021,Rickettsia rickettsii Sheila Smith,1099,Host,Mesophile,Aerobe
+uid58063,257363,Rickettsia typhi Wilmington,776,Host,Mesophile,Aerobe
+uid60727,693978,Riemerella anatipestifer DSM 15868,1764,Host,Mesophile,Aerobe (Microaerophilic)
+uid58285,313596,Robiginitalea biformata HTCC2501,2730,Marine,Mesophile,Aerobe
+uid73419,585394,Roseburia hominis A2 183,2520,,,
+uid58287,383372,Roseiflexus castenholzii DSM 13941,3208,"Marine (Hot spring, Marine)",Thermophile,Facultative
+uid58523,357808,Roseiflexus RS 1,3286,"Marine (Hot spring, Marine)",Thermophile,Facultative
+uid58597,375451,Roseobacter denitrificans OCh 114,3074,"Multi (Fresh water, Host)",Mesophile,Aerobe
+uid54719,391595,Roseobacter litoralis Och 149,3238,Marine,Mesophile,Aerobe
+uid49331,762948,Rothia dentocariosa ATCC 17931,1827,"Human (Host, Human oral microflora)",Mesophile,Aerobe
+uid43093,680646,Rothia mucilaginosa,1651,"Human (Human oral microflora, Host)",Mesophile,
+uid58057,266117,Rubrobacter xylanophilus DSM 9941,2333,Soil,Thermophile,Aerobe
+uid57863,246200,Ruegeria pomeroyi DSS 3,2886,Fresh water,Mesophile,Aerobe
+uid58193,292414,Ruegeria TM1040,2440,"Multi (Host, Marine)",Mesophile,Aerobe
+uid51721,697329,Ruminococcus albus 7,2470,Host,Mesophile,Anaerobe
+uid68317,761193,Runella slithyformis DSM 19594,4168,,,
+uid59055,471857,Saccharomonospora viridis DSM 43017,2913,Host,Thermophile,Aerobe
+uid57921,203122,Saccharophagus degradans 2 40,3209,Fresh water,Psychrophile (Psychrotolerant),Aerobe
+uid62947,405948,Saccharopolyspora erythraea NRRL 2338,4518,Soil,Mesophile,Aerobe
+uid58513,309807,Salinibacter ruber DSM 13855,2301,Other (Ponds),Mesophile,Aerobe
+uid47323,761659,Salinibacter ruber M8,2537,,,
+uid58659,391037,Salinispora arenicola CNS 205,3482,"Multi (Fresh water, Marine, Sediment)",Mesophile,Aerobe
+uid58565,369723,Salinispora tropica CNB 440,3255,Marine,Mesophile,Aerobe
+uid70155,218493,Salmonella bongori NCTC 12419,2982,Host,Mesophile,Facultative
+uid58191,882884,Salmonella enterica arizonae serovar 62 z4 z23 RSK2980,3498,,,
+uid59431,454166,Salmonella enterica serovar Agona SL483,3549,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid58017,321314,Salmonella enterica serovar Choleraesuis SC B67,3379,"Multi (Food, Soil, Fresh water, Host)",Mesophile,Facultative
+uid58917,439851,Salmonella enterica serovar Dublin CT 02021853,3513,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid59247,550537,Salmonella enterica serovar Enteritidis P125109,3201,Host,Mesophile,Facultative
+uid59249,550538,Salmonella enterica serovar Gallinarum 287 91,3058,Host,Mesophile,Facultative
+uid58973,454169,Salmonella enterica serovar Heidelberg SL476,3618,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid58831,423368,Salmonella enterica serovar Newport SL254,3574,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid59269,554290,Salmonella enterica serovar Paratyphi A AKU 12601,3190,Host,Mesophile,Facultative
+uid58201,295319,Salmonella enterica serovar Paratyphi A ATCC 9150,3200,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid59097,1016998,Salmonella enterica serovar Paratyphi B SPB7,4458,,,
+uid59063,476213,Salmonella enterica serovar Paratyphi C RKS4594,3539,Host,Mesophile,Facultative
+uid58915,439843,Salmonella enterica serovar Schwarzengrund CVM19633,3535,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid57793,220341,Salmonella enterica serovar Typhi CT18,3373,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid57973,209261,Salmonella enterica serovar Typhi Ty2,3342,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid57799,99287,Salmonella enterica serovar Typhimurium LT2,3326,"Multi (Food, Fresh water, Host, Soil)",Mesophile,Facultative
+uid40845,446469,Sanguibacter keddieii DSM 10542,2798,Host,Mesophile,Facultative
+uid41865,526218,Sebaldella termitidis ATCC 33386,2882,"Host (Gut, Host)",Mesophile,Anaerobe
+uid49049,640132,Segniliparus rotundus DSM 44985,2392,Host,Mesophile,Aerobe
+uid67315,768490,Serratia AS12,3651,,,
+uid67313,768492,Serratia AS9,3651,,,
+uid58725,399741,Serratia proteamaculans 568,3512,"Multi (Host, Soil)",Mesophile,Facultative
+uid58257,326297,Shewanella amazonensis SB2B,2965,"Other (Mud, Sediment)",Mesophile,Facultative
+uid58347,94122,Shewanella ANA 3,3333,"Multi (Soil, Host)",Mesophile,Anaerobe
+uid58259,325240,Shewanella baltica OS155,3310,Marine,Mesophile,Facultative
+uid58743,402882,Shewanella baltica OS185,3428,Marine,Psychrophile (Psychrotolerant),Facultative
+uid58261,399599,Shewanella baltica OS195,3510,Marine,Mesophile,Facultative
+uid58775,407976,Shewanella baltica OS223,3428,Marine,Psychrophile (Psychrotolerant),Facultative
+uid58263,318161,Shewanella denitrificans OS217,3031,Marine,Mesophile,Facultative
+uid58265,318167,Shewanella frigidimarina NCIMB 400,3211,Marine,Mesophile,Facultative
+uid59007,458817,Shewanella halifaxensis HAW EB4,3322,"Marine (Marine, Sediment)",Psychrophile,Facultative
+uid58349,323850,Shewanella loihica PV 4,3141,"Marine (Hydrothermal vent, Marine)",Psychrophile,Anaerobe
+uid58345,60480,Shewanella MR 4,3181,Marine,Mesophile,Anaerobe
+uid58343,60481,Shewanella MR 7,3263,Marine,Mesophile,Anaerobe
+uid57949,211586,Shewanella oneidensis MR 1,3384,"Fresh water (Fresh water, Sediment)",Mesophile,Facultative
+uid58705,398579,Shewanella pealeana ATCC 700345,3292,Host,Psychrophile (Psychrotolerant),Facultative
+uid58745,225849,Shewanella piezotolerans WP3,3872,"Marine (Deep sea, Marine, Sediment)",Psychrophile (Psychrotolerant),Facultative
+uid58267,319224,Shewanella putrefaciens CN 32,3181,"Multi (Fresh water, Soil)",Mesophile,Anaerobe
+uid58835,425104,Shewanella sediminis HAW EB3,3416,"Marine (Marine, Sediment)",Psychrophile,Facultative
+uid47085,637905,Shewanella violacea DSS12,3544,"Other (Mud, Sediment)",Psychrophile,Facultative
+uid58341,351745,Shewanella W3 18 1,3278,"Marine (Deep sea, Marine, Sediment)",Mesophile,Facultative
+uid58721,392500,Shewanella woodyi ATCC 51908,3875,Marine,Psychrophile,Facultative
+uid58415,344609,Shigella boydii CDC 3083 94,2851,Host,Mesophile,Facultative
+uid58215,300268,Shigella boydii Sb227,2758,Host,Mesophile,Facultative
+uid58213,300267,Shigella dysenteriae Sd197,2597,Host,Mesophile,Facultative
+uid57991,198215,Shigella flexneri 2a 2457T,2777,Host,Mesophile,Facultative
+uid62907,198214,Shigella flexneri 2a 301,2822,Host,Mesophile,Facultative
+uid58583,373384,Shigella flexneri 5 8401,2791,Host,Mesophile,Facultative
+uid58217,300269,Shigella sonnei Ss046,2876,Host,Mesophile,Facultative
+uid46801,580332,Sideroxydans lithotrophicus ES 1,2494,Fresh water,Mesophile,Aerobe
+uid68451,331113,Simkania negevensis Z,2000,"Host (Host, Wastewater)",Mesophile,
+uid58549,366394,Sinorhizobium medicae WSM419,2745,"Multi (Host, Plant root, Rhizosphere, Root nodule, Soil)",Mesophile,Aerobe
+uid57603,266834,Sinorhizobium meliloti 1021,2599,"Multi (Host, Plant root, Root nodule, Soil)",Mesophile,Aerobe
+uid52607,693982,Sinorhizobium meliloti AK83,2878,"Multi (Host, Plant root, Root nodule, Soil)",Mesophile,Aerobe
+uid59051,471855,Slackia heliotrinireducens DSM 20476,2148,"Host (Rumen, Host)",Mesophile,Anaerobe (Obligate anaerobe)
+uid58553,343509,Sodalis glossinidius morsitans,1949,Host,Mesophile,Aerobe (Microaerophilic)
+uid61629,448385,Sorangium cellulosum So ce 56,6134,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid41997,479434,Sphaerobacter thermophilus DSM 20745,1969,Other (Sludge),Thermophile,Aerobe (Obligate aerobe)
+uid64755,743722,Sphingobacterium 21,3703,,,
+uid52597,690566,Sphingobium chlorophenolicum L 1,2398,Soil,Mesophile,
+uid47077,452662,Sphingobium japonicum UT26S,2846,,Mesophile,
+uid73353,627192,Sphingobium SYK 6,2996,,,
+uid58691,392499,Sphingomonas wittichii RW1,3232,Fresh water,Mesophile,Aerobe
+uid58351,317655,Sphingopyxis alaskensis RB2256,2512,Marine,Mesophile,Aerobe
+uid63633,158189,Spirochaeta Buddy,2302,"Marine (Marine, Hot spring)",Thermophile (Hyperthermophile),Anaerobe
+uid68753,744872,Spirochaeta caldaria DSM 7334,2262,,,
+uid66331,760011,Spirochaeta coccoides DSM 17374,1474,,,
+uid51369,573413,Spirochaeta smaragdinae DSM 11293,2984,Other (Oil fields),Mesophile,Anaerobe (Obligate anaerobe)
+uid53037,665571,Spirochaeta thermophila DSM 6192,1852,"Marine (Hot spring, Marine)",Thermophile (Hyperthermophile),Anaerobe
+uid43413,504472,Spirosoma linguale DSM 74,4637,"Multi (Fresh water, Fresh water, Soil)",Mesophile,Aerobe
+uid46663,446470,Stackebrandtia nassauensis DSM 44728,4237,Soil,Mesophile,Aerobe
+uid57797,93062,Staphylococcus aureus COL,2146,Host,Mesophile,Facultative
+uid41455,681288,Staphylococcus aureus ED98,2156,Host,Mesophile,Facultative
+uid58457,359787,Staphylococcus aureus JH1,2202,Host,Mesophile,Facultative
+uid58455,359786,Staphylococcus aureus JH9,2148,Host,Mesophile,Facultative
+uid57839,282458,Staphylococcus aureus MRSA252,2166,Host,Mesophile,Facultative
+uid57841,282459,Staphylococcus aureus MSSA476,2118,Host,Mesophile,Facultative
+uid58817,418127,Staphylococcus aureus Mu3,2162,Host,Mesophile,Facultative
+uid57835,158878,Staphylococcus aureus Mu50,2169,Host,Mesophile,Facultative
+uid57903,196620,Staphylococcus aureus MW2,2140,Host,Mesophile,Facultative
+uid57837,158879,Staphylococcus aureus N315,2071,Host,Mesophile,Facultative
+uid57795,93061,Staphylococcus aureus NCTC 8325,2345,Host,Mesophile,Facultative
+uid58839,426430,Staphylococcus aureus Newman,2048,Host,Mesophile,Facultative
+uid57661,273036,Staphylococcus aureus RF122,2052,Host,Mesophile,Facultative
+uid58555,451515,Staphylococcus aureus USA300 FPR3757,2067,,,
+uid58925,451516,Staphylococcus aureus USA300 TCH1516,2193,Host,Mesophile,Facultative
+uid59401,396513,Staphylococcus carnosus TM300,2022,,Mesophile,Facultative
+uid57861,176280,Staphylococcus epidermidis ATCC 12228,1958,Host,Mesophile,Facultative
+uid57663,176279,Staphylococcus epidermidis RP62A,2094,Host,Mesophile,Facultative
+uid62919,279808,Staphylococcus haemolyticus JCSC1435,2150,"Human (Host, Human skin)",Mesophile,Facultative
+uid46233,698737,Staphylococcus lugdunensis HKU09 01,2036,"Human (Human vaginal microflora, Host)",Mesophile,Facultative
+uid62125,937773,Staphylococcus pseudintermedius HKU10 03,2061,Host,Mesophile,Aerobe
+uid58411,342451,Staphylococcus saprophyticus ATCC 15305,1971,"Human (Host, Human skin)",Mesophile,Aerobe
+uid48815,639283,Starkeya novella DSM 506,3172,Soil,Mesophile,Aerobe
+uid61647,522373,Stenotrophomonas maltophilia K279a,3489,"Multi (Fresh water, Host, Plants, Soil)",Mesophile,Aerobe
+uid58657,391008,Stenotrophomonas maltophilia R551 3,3209,"Multi (Fresh water, Host, Plants, Soil)",Mesophile,Aerobe
+uid41863,519441,Streptobacillus moniliformis DSM 12112,1121,Host,Mesophile,Facultative
+uid57943,208435,Streptococcus agalactiae 2603V R,1771,Host,Mesophile,Facultative
+uid57935,205921,Streptococcus agalactiae A909,1653,Host,Mesophile,Facultative
+uid61585,211110,Streptococcus agalactiae NEM316,1648,Host,Mesophile,Facultative
+uid59103,486410,Streptococcus dysgalactiae equisimilis GGS 124,1651,Host,Mesophile,Facultative
+uid59259,553482,Streptococcus equi 4047,1578,Host,Mesophile,Facultative
+uid59261,40041,Streptococcus equi zooepidemicus,1500,Host,Mesophile,Facultative
+uid59263,552526,Streptococcus equi zooepidemicus MGCS10565,1522,Host,Mesophile,Facultative
+uid63617,990317,Streptococcus gallolyticus ATCC BAA 2069,1843,Host,Mesophile,Aerobe
+uid46061,637909,Streptococcus gallolyticus UCN34,1834,Host,Mesophile,Anaerobe
+uid57667,467705,Streptococcus gordonii Challis substr CH1,1755,"Human (Host, Human oral microflora)",Mesophile,Facultative
+uid46097,365659,Streptococcus mitis B6,1654,"Host (Oral microflora, Host)",Mesophile,Aerobe
+uid46353,511691,Streptococcus mutans NN2025,1600,Host,Mesophile,Facultative
+uid57947,210007,Streptococcus mutans UA159,1661,Host,Mesophile,Facultative
+uid65449,927666,Streptococcus oralis Uo5,1630,Host,Mesophile,Facultative
+uid49313,760570,Streptococcus parasanguinis ATCC 15912,1724,Host,Mesophile,Aerobe
+uid67355,936154,Streptococcus parauberis KCTC 11537,1496,,,
+uid68019,981540,Streptococcus pasteurianus ATCC 43144,1565,,,
+uid52533,189423,Streptococcus pneumoniae 670 6B,1780,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid59125,488221,Streptococcus pneumoniae 70585,1686,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid52453,574093,Streptococcus pneumoniae AP200,1686,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid59287,561276,Streptococcus pneumoniae ATCC 700669,1615,Host,Mesophile,Facultative
+uid59181,516950,Streptococcus pneumoniae CGSP14,1681,Host,Mesophile,Facultative
+uid58581,373153,Streptococcus pneumoniae D39,1544,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid59167,512566,Streptococcus pneumoniae G54,1615,"Human (Human nasopharyngeal microflora, Host)",Mesophile,Facultative
+uid59117,487214,Streptococcus pneumoniae Hungary19A 6,1737,Host,Mesophile,Facultative
+uid59121,488222,Streptococcus pneumoniae JJA,1657,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid59123,488223,Streptococcus pneumoniae P1031,1633,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid57859,171101,Streptococcus pneumoniae R6,1575,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid59119,487213,Streptococcus pneumoniae Taiwan19F 14,1619,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid49735,525381,Streptococcus pneumoniae TCH8431 19A,1708,Host,Mesophile,Facultative
+uid57857,170187,Streptococcus pneumoniae TIGR4,1685,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid71153,1054460,Streptococcus pseudopneumoniae IS7493,1776,,,
+uid57845,160490,Streptococcus pyogenes M1 GAS,1442,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid57847,160491,Streptococcus pyogenes Manfredo,1473,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid58571,370552,Streptococcus pyogenes MGAS10270,1629,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid58105,286636,Streptococcus pyogenes MGAS10394,1551,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid58575,370554,Streptococcus pyogenes MGAS10750,1616,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid58573,370553,Streptococcus pyogenes MGAS2096,1530,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid57911,198466,Streptococcus pyogenes MGAS315,1530,Host,Mesophile,Facultative
+uid58337,293653,Streptococcus pyogenes MGAS5005,1540,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid58335,319701,Streptococcus pyogenes MGAS6180,1585,"Human (Host, Human nasopharyngeal microflora)",Mesophile,Facultative
+uid57871,186103,Streptococcus pyogenes MGAS8232,1515,Host,Mesophile,Facultative
+uid58569,370551,Streptococcus pyogenes MGAS9429,1560,"Host (Host, Nasopharyngeal microflora)",Mesophile,Facultative
+uid59035,471876,Streptococcus pyogenes NZ131,1437,Host,Mesophile,Facultative
+uid57895,193567,Streptococcus pyogenes SSI 1,1542,Host,Mesophile,Facultative
+uid70481,1048332,Streptococcus salivarius CCHSS3,1656,,,
+uid58381,388919,Streptococcus sanguinis SK36,1881,"Host (Host, Oral microflora)",Mesophile,Facultative
+uid58663,391295,Streptococcus suis 05ZYH33,1711,Host,Mesophile,Facultative
+uid58665,391296,Streptococcus suis 98HAH33,1714,Host,Mesophile,Facultative
+uid59321,568814,Streptococcus suis BM407,1619,Host,Mesophile,Facultative
+uid32235,218494,Streptococcus suis P1 7,1567,Host,Mesophile,Facultative
+uid59323,568813,Streptococcus suis SC84,1635,Host,Mesophile,Facultative
+uid66327,1007064,Streptococcus suis ST3,1625,Host,Mesophile,Facultative
+uid58221,299768,Streptococcus thermophilus CNRZ1066,1431,Other (Milk),Thermophile,Facultative
+uid58327,322159,Streptococcus thermophilus LMD 9,1439,Other (Milk),Thermophile (Thermotolerant),Facultative
+uid58219,264199,Streptococcus thermophilus LMG 18311,1416,Other (Milk),Thermophile,Facultative
+uid57959,218495,Streptococcus uberis 0140J,1483,Host,Mesophile,Facultative
+uid57739,227882,Streptomyces avermitilis MA 4680,4827,Soil,Mesophile,Aerobe
+uid77117,1003195,Streptomyces cattleya NRRL 8057,4093,,,
+uid57801,100226,Streptomyces coelicolor A3 2,4892,Soil,Mesophile,Aerobe
+uid40839,591167,Streptomyces flavogriseus ATCC 33331,4225,,,
+uid58983,455632,Streptomyces griseus NBRC 13350,4583,Soil,Mesophile,Aerobe
+uid46531,680198,Streptomyces scabiei 87 22,5494,Soil,Mesophile,Aerobe
+uid72627,862751,Streptomyces SirexAA E,4221,,,
+uid52609,653045,Streptomyces violaceusniger Tu 4113,5003,"Soil (Soil, Terrestrial)",Mesophile,Aerobe
+uid42521,479432,Streptosporangium roseum DSM 43021,5379,Soil,Mesophile,Aerobe
+uid68841,1051632,Sulfobacillus acidophilus TPY,2832,,Thermophile,
+uid60789,709032,Sulfuricurvum kujiense DSM 16994,2070,,Mesophile,Anaerobe
+uid58121,204536,Sulfurihydrogenibium azorense Az Fu1,1486,Soil,Thermophile,Facultative
+uid58855,436114,Sulfurihydrogenibium YO3AOP1,1504,Soil,Thermophile,Facultative
+uid53043,563040,Sulfurimonas autotrophica DSM 16294,1876,"Marine (Marine, Sediment)",Mesophile,Aerobe
+uid58185,326298,Sulfurimonas denitrificans DSM 1251,1785,"Marine (Marine, Mud)",Mesophile,Anaerobe
+uid41861,525898,Sulfurospirillum deleyianum DSM 6946,1865,Other (Sediment),Mesophile,Aerobe (Microaerophilic)
+uid58863,387093,Sulfurovum NBC37 1,2059,"Marine (Deep sea, Hydrothermal vent, Marine)",Thermophile,Anaerobe
+uid58165,292459,Symbiobacterium thermophilum IAM 14863,2534,Soil,Thermophile,Anaerobe
+uid58123,64471,Synechococcus CC9311,2518,Marine,Mesophile,
+uid58319,110662,Synechococcus CC9605,2309,Marine,Mesophile,
+uid58323,316279,Synechococcus CC9902,2050,"Marine (Coastal, Marine)",Mesophile,
+uid58235,269084,Synechococcus elongatus PCC 6301,2141,Fresh water,Mesophile,Facultative
+uid58045,1140,Synechococcus elongatus PCC 7942,2229,Fresh water,Mesophile,Facultative
+uid58537,321332,Synechococcus JA 2 3B a 2 13,2339,"Fresh water (Fresh water, Hot spring)",Thermophile,Facultative
+uid58535,321327,Synechococcus JA 3 3Ab,2238,"Fresh water (Fresh water, Hot spring)",Thermophile,Facultative
+uid59137,32049,Synechococcus PCC 7002,2368,"Marine (Marine, Mud)",Mesophile,Facultative
+uid61609,316278,Synechococcus RCC307,2246,Marine,Mesophile,Facultative
+uid61607,32051,Synechococcus WH 7803,2228,Marine,Mesophile,
+uid61581,84588,Synechococcus WH 8102,2167,Marine,Mesophile,
+uid57659,1148,Synechocystis PCC 6803,2455,"Multi (Fresh water, Fresh water)",Mesophile,Facultative
+uid58177,335543,Syntrophobacter fumaroxidans MPOB,3027,Fresh water,Mesophile,Anaerobe
+uid63343,645991,Syntrophobotulus glycolicus DSM 8271,2443,"Multi (Fresh water, Marine, Sludge)",Mesophile,Anaerobe
+uid58179,335541,Syntrophomonas wolfei Goettingen,1932,,Mesophile,Anaerobe
+uid49527,643648,Syntrophothermus lipocalidus DSM 12680,1893,,Thermophile,Anaerobe (Obligate anaerobe)
+uid58539,56780,Syntrophus aciditrophicus SB,2553,Other (Sludge),Mesophile,Anaerobe
+uid73771,1008459,Taylorella asinigenitalis MCE3,1330,,,
+uid62103,937774,Taylorella equigenitalis MCE9,1342,"Host (Host, Vagina microflora)",Mesophile,Aerobe (Microaerophilic)
+uid66873,499229,Tepidanaerobacter Re1,2030,Other (Sludge),Thermophile (Thermotolerant),Aerobe
+uid59267,377629,Teredinibacter turnerae T7901,3483,"Host (Host, Endosymbiont)",Mesophile,
+uid53251,401053,Terriglobus saanensis SP1PR4,3179,,,
+uid74441,945021,Tetragenococcus halophilus,1892,,,
+uid58987,85643,Thauera MZ1T,3027,"Fresh water (Fresh water, Wastewater)",Mesophile,Facultative
+uid61727,644966,Thermaerobacter marianensis DSM 12885,1916,Other (Mud),Thermophile (Hyperthermophile),Aerobe (Obligate aerobe)
+uid41925,525903,Thermanaerovibrio acidaminovorans DSM 6589,1486,Other (Sludge),Thermophile,Anaerobe (Obligate anaerobe)
+uid48823,635013,Thermincola potens JR,2282,Other (Sludge),Thermophile,Anaerobe
+uid55639,509193,Thermoanaerobacter brockii finnii Ako 1,1801,,Thermophile,Anaerobe
+uid46241,580331,Thermoanaerobacter italicus Ab9,1868,"Fresh water (Fresh water, Mud)",Thermophile,Anaerobe
+uid49481,583358,Thermoanaerobacter mathranii A3,1814,Other (Hot spring),Thermophile,Anaerobe
+uid58339,340099,Thermoanaerobacter pseudethanolicus ATCC 33223,1783,"Fresh water (Fresh water, Hot spring)",Thermophile,Anaerobe
+uid57813,273068,Thermoanaerobacter tengcongensis MB4,2000,"Fresh water (Fresh water, Hot spring)",Thermophile (Hyperthermophile),Anaerobe
+uid52581,697303,Thermoanaerobacter wiegelii Rt8 B1,1977,"Fresh water (Hot spring, Fresh water)",Thermophile,Anaerobe (Obligate anaerobe)
+uid53065,573062,Thermoanaerobacter X513,1902,Fresh water,Thermophile,Anaerobe
+uid58589,399726,Thermoanaerobacter X514,1889,"Fresh water (Fresh water, Deep subsurface)",Thermophile,Anaerobe
+uid51639,580327,Thermoanaerobacterium thermosaccharolyticum DSM 571,2121,,Thermophile,Anaerobe (Obligate anaerobe)
+uid63163,858215,Thermoanaerobacterium xylanolyticum LX 11,1903,"Fresh water (Fresh water, Sediment)",Thermophile,Anaerobe
+uid42011,525904,Thermobaculum terrenum ATCC BAA 798,1562,Soil,Thermophile,Aerobe (Obligate aerobe)
+uid57703,269800,Thermobifida fusca YX,2444,"Host (Self-heated organic materials, Host)",Thermophile,Aerobe
+uid48999,469371,Thermobispora bispora DSM 43833,2701,,Thermophile,Aerobe
+uid46231,638303,Thermocrinis albus DSM 14484,1421,"Fresh water (Fresh water, Hot spring)",Thermophile (Hyperthermophile),Aerobe (Microaerophilic)
+uid68285,667014,Thermodesulfatator indicus DSM 15286,1856,,,
+uid68283,795359,Thermodesulfobacterium OPB45,1434,,,
+uid66601,747365,Thermodesulfobium narugense DSM 14796,1548,,,
+uid59257,289376,Thermodesulfovibrio yellowstonii DSM 11347,1701,Fresh water,Thermophile,
+uid59341,309801,Thermomicrobium roseum DSM 5159,1623,,Thermophile,Aerobe
+uid41885,471852,Thermomonospora curvata DSM 43183,3504,,Thermophile,Aerobe
+uid51421,555079,Thermosediminibacter oceani DSM 16646,1802,"Soil (Sediment, Soil, Deep sea)",Thermophile,Anaerobe
+uid59095,484019,Thermosipho africanus TCF52B,1631,Fresh water,Thermophile,Anaerobe
+uid58683,391009,Thermosipho melanesiensis BI429,1624,"Multi (Hydrothermal vent, Marine, Host)",Thermophile,Anaerobe
+uid57907,197221,Thermosynechococcus elongatus BP 1,1987,"Fresh water (Fresh water, Hot spring)",Thermophile,
+uid58419,416591,Thermotoga lettingae TMO,1637,Fresh water,Thermophile,Anaerobe
+uid57723,243274,Thermotoga maritima MSB8,1576,Marine,Thermophile (Hyperthermophile),Anaerobe
+uid42777,590168,Thermotoga naphthophila RKU 10,1517,Fresh water,Thermophile,Anaerobe
+uid59065,309803,Thermotoga neapolitana DSM 4359,1633,Fresh water,Thermophile (Hyperthermophile),Anaerobe
+uid58655,390874,Thermotoga petrophila RKU 1,1521,"Fresh water (Fresh water, Oil fields)",Thermophile (Hyperthermophile),Anaerobe
+uid58935,126740,Thermotoga RQ2,1550,Fresh water,Thermophile (Hyperthermophile),Anaerobe
+uid68449,688269,Thermotoga thermarum DSM 5069,1599,,,
+uid62095,648996,Thermovibrio ammonificans HB 1,1568,"Multi (Fresh water, Hydrothermal vent, Deep sea, Marine)",Thermophile,Anaerobe
+uid77129,580340,Thermovirga lienii DSM 17291,1514,,,
+uid62273,743525,Thermus scotoductus SA 01,2012,"Fresh water (Fresh water, Groundwater)",Thermophile,Anaerobe
+uid58033,262724,Thermus thermophilus HB27,1693,"Fresh water (Fresh water, Hydrothermal vent)",Thermophile,Aerobe
+uid58223,300852,Thermus thermophilus HB8,1664,"Fresh water (Fresh water, Hot spring)",Thermophile,Aerobe
+uid67391,717773,Thioalkalimicrobium cyclicum ALM1,1508,,,
+uid46181,396595,Thioalkalivibrio K90mix,2175,Other (Soda lakes),Mesophile,Aerobe
+uid59179,396588,Thioalkalivibrio sulfidophilus HL EbGr7,2782,Fresh water,Mesophile,Facultative
+uid58189,292415,Thiobacillus denitrificans ATCC 25259,2383,Soil,Mesophile,Facultative
+uid58183,317025,Thiomicrospira crunogena XCL 2,1872,"Marine (Deep sea, Marine)",Mesophile,Anaerobe
+uid48825,75379,Thiomonas intermedia K12,2469,,Mesophile,Aerobe
+uid59395,595494,Tolumonas auensis DSM 9187,2431,"Fresh water (Fresh water, Sediment)",Mesophile,Facultative
+uid67365,545695,Treponema azotonutricium ZAS 9,2676,"Host (Host, Termite gut)",Mesophile,Anaerobe
+uid66607,906968,Treponema brennaborense DSM 12168,2068,Host,Mesophile,Anaerobe
+uid57583,243275,Treponema denticola ATCC 35405,2283,Host,Mesophile,Anaerobe
+uid57585,243276,Treponema pallidum Nichols,923,Host,Mesophile,Anaerobe
+uid58977,455434,Treponema pallidum SS14,920,Host,Mesophile,Anaerobe
+uid68447,545776,Treponema paraluiscuniculi Cuniculi A,923,Host,Mesophile,Anaerobe
+uid67367,545694,Treponema primitia ZAS 2,2652,"Host (Host, Termite gut)",Mesophile,Anaerobe
+uid65781,869209,Treponema succinifaciens DSM 2489,2071,,,
+uid57925,203124,Trichodesmium erythraeum IMS101,2981,Marine,Mesophile,Aerobe
+uid57961,218496,Tropheryma whipplei TW08 27,712,Host,Mesophile,Aerobe
+uid57705,203267,Tropheryma whipplei Twist,738,Host,Mesophile,Aerobe
+uid49533,649638,Truepera radiovictrix DSM 17093,2329,"Fresh water (Fresh water, Hot spring)",Thermophile,Aerobe (Obligate aerobe)
+uid48829,521096,Tsukamurella paurometabola DSM 20162,3090,"Multi (Host, Sludge, Soil)",Mesophile,Aerobe (Obligate aerobe)
+uid58887,505682,Ureaplasma parvum serovar 3 ATCC 27815,550,Host,Mesophile,Facultative
+uid57711,273119,Ureaplasma parvum serovar 3 ATCC 700970,543,"Host (Host, Urogenital tract)",Mesophile,Facultative
+uid59011,565575,Ureaplasma urealyticum serovar 10 ATCC 33699,568,"Host (Host, Urogenital tract)",Mesophile,Facultative
+uid62107,595537,Variovorax paradoxus EPS,4017,Soil,Mesophile,Aerobe
+uid59437,543728,Variovorax paradoxus S110,3663,Soil,Mesophile,Aerobe
+uid41927,479436,Veillonella parvula DSM 2008,1594,"Human (Human intestinal microflora, Human oral microflora, Human vaginal microflora, Host)",Mesophile,Anaerobe
+uid58675,391735,Verminephrobacter eiseniae EF01 2,2958,"Multi (Host, Soil)",Mesophile,
+uid66297,263358,Verrucosispora maris AB 18 032,4176,Other (Sediment),,
+uid68057,882102,Vibrio anguillarum 775,2317,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid59355,579112,Vibrio cholerae M66 2,2239,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid59387,593588,Vibrio cholerae MJ 1236,2284,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid78933,914149,Vibrio cholerae O1 2010EL 1786,2353,,,
+uid57623,243277,Vibrio cholerae O1 biovar El Tor N16961,2297,"Multi (Fresh water, Host, Intestinal microflora, Wastewater)",Mesophile,Facultative
+uid58425,345073,Vibrio cholerae O395,2237,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid41601,150340,Vibrio Ex25,2478,Marine,Mesophile,Facultative
+uid58163,312309,Vibrio fischeri ES114,2188,Fresh water,Mesophile,Facultative
+uid58907,388396,Vibrio fischeri MJ11,2186,Fresh water,Mesophile,Facultative
+uid58957,338187,Vibrio harveyi ATCC BAA 1116,2689,Marine,Mesophile,Facultative
+uid57969,223926,Vibrio parahaemolyticus RIMD 2210633,2642,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid59353,575788,Vibrio splendidus LGP32,2469,Fresh water,Mesophile,Facultative
+uid62909,216895,Vibrio vulnificus CMCP6,2421,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid62243,914127,Vibrio vulnificus MO6 24 O,2511,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid58007,196600,Vibrio vulnificus YJ016,2682,"Multi (Fresh water, Host)",Mesophile,Facultative
+uid49531,716544,Waddlia chondrophila WSU 86 1044,1654,Host,,
+uid63627,865938,Weeksella virosa DSM 16922,1850,Host,Mesophile,Aerobe
+uid68837,1045854,Weissella koreensis KACC 15510,1158,,,
+uid57853,36870,Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis,584,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,
+uid61645,570417,Wolbachia endosymbiont of Culex quinquefasciatus Pel,949,,,
+uid57851,163164,Wolbachia endosymbiont of Drosophila melanogaster,949,"Host (Endosymbiont, Host, Insect endosymbiont)",Mesophile,Aerobe
+uid58107,292805,Wolbachia endosymbiont TRS of Brugia malayi,753,"Host (Endosymbiont, Host, Nematode endosymbiont)",Mesophile,Aerobe
+uid59371,66084,Wolbachia wRi,875,"Host (Endosymbiont, Host)",Mesophile,Aerobe
+uid61591,273121,Wolinella succinogenes DSM 1740,1697,"Host (Host, Rumen)",Mesophile,Anaerobe
+uid58453,78245,Xanthobacter autotrophicus Py2,3351,"Multi (Fresh water, Sediment, Soil)",Mesophile,Facultative
+uid43163,380358,Xanthomonas albilineans GPE PC73,2482,,,
+uid57889,190486,Xanthomonas axonopodis citri 306,3344,Host,Mesophile,Aerobe
+uid73179,981368,Xanthomonas axonopodis citrumelo F1,3293,,,
+uid57595,314565,Xanthomonas campestris 8004,3286,Host,Mesophile,Aerobe
+uid57887,190485,Xanthomonas campestris ATCC 33913,3191,Host,Mesophile,Aerobe
+uid61643,509169,Xanthomonas campestris B100,3444,,,
+uid58321,316273,Xanthomonas campestris vesicatoria 85 10,3416,Host,Mesophile,Aerobe
+uid58155,291331,Xanthomonas oryzae KACC10331,2699,Host,Mesophile,Aerobe
+uid58547,342109,Xanthomonas oryzae MAFF 311018,2886,Host,Mesophile,Aerobe
+uid59131,360094,Xanthomonas oryzae PXO99A,3201,Host,Mesophile,Aerobe
+uid46345,406818,Xenorhabdus bovienii SS 2004,3103,"Multi (Host, Nematode gut, Nematode symbiont, Soil)",Mesophile,Facultative
+uid49133,406817,Xenorhabdus nematophila ATCC 19061,3101,"Multi (Host, Nematode gut, Nematode symbiont, Soil)",Mesophile,Facultative
+uid41935,446471,Xylanimonas cellulosilytica DSM 15894,2609,Soil,Mesophile,Aerobe
+uid57849,160492,Xylella fastidiosa 9a5c,2308,Host,Mesophile,Aerobe
+uid58763,405440,Xylella fastidiosa M12,1789,Host,Mesophile,Aerobe
+uid58809,405441,Xylella fastidiosa M23,1768,Host,Mesophile,Aerobe
+uid57869,183190,Xylella fastidiosa Temecula1,1686,Host,Mesophile,Aerobe
+uid57741,393305,Yersinia enterocolitica 8081,3075,Host,Mesophile,Aerobe
+uid63663,994476,Yersinia enterocolitica palearctica 105 5R r,3011,Host,Mesophile,Aerobe
+uid58485,349746,Yersinia pestis Angola,2900,Host,Mesophile,Facultative
+uid58607,360102,Yersinia pestis Antiqua,2905,Host,Mesophile,Facultative
+uid58037,229193,Yersinia pestis biovar Microtus 91001,2935,Host,Mesophile,Facultative
+uid57621,214092,Yersinia pestis CO92,2898,Host,Mesophile,Facultative
+uid57875,187410,Yersinia pestis KIM 10,3012,Host,Mesophile,Facultative
+uid58609,377628,Yersinia pestis Nepal516,2884,Host,Mesophile,Facultative
+uid58619,386656,Yersinia pestis Pestoides F,2847,Host,Mesophile,Facultative
+uid47317,637386,Yersinia pestis Z176003,2571,Host,Mesophile,Facultative
+uid58487,349747,Yersinia pseudotuberculosis IP 31758,3228,Host,Mesophile,Facultative
+uid58157,273123,Yersinia pseudotuberculosis IP 32953,2982,"Multi (Fresh water, Host, Soil)",Mesophile,Facultative
+uid59153,502801,Yersinia pseudotuberculosis PB1,3172,Host,Mesophile,Facultative
+uid59151,502800,Yersinia pseudotuberculosis YPIII,3226,Host,Mesophile,Facultative
+uid70621,63186,Zobellia galactanivorans,3628,,,
+uid48073,655815,Zunongwangia profunda SM A87,3584,"Other (Deep sea, Sediment)",Mesophile,Aerobe (Obligate aerobe)
+uid41019,622759,Zymomonas mobilis NCIMB 11163,1559,,Mesophile,Facultative
+uid68445,579138,Zymomonas mobilis pomaceae ATCC 29192,1479,,Mesophile,Facultative
+uid58095,264203,Zymomonas mobilis ZM4,1505,,Mesophile,Facultative
