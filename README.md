@@ -42,4 +42,5 @@ The get started section describe analysis done with R Drake. Here we describe ex
 |Primer detection                           | 16S and ITS primers for bioprojects without publication were discovered based on alignment|
 |Generalist and specialists BGCs            | Fungal and Bacterial BGCs were identified with antiSMASH                                  |
 |Bacterial generalists and specialists AMR  | Antimicrobial Resistance Genes identification                                             |
+| Decontamination                           | Perform decontamination of low biomass samples for 16S and ITS                            |
 
