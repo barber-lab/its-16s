@@ -22,6 +22,9 @@ library(patchwork)
 library(future)
 library(future.callr)
 library(RColorBrewer)
+library(tidygraph)
+library(ggraph)
+library(igraph)
 
 setwd(here::here())
 

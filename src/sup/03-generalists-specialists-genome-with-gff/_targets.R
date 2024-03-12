@@ -1,6 +1,6 @@
 #!/usr/bin/env R
 
-# This pipeline analise the antismash results with gff3 file suplied together with the genome.
+# This pipeline analyse the antismash results with gff3 file suplied together with the genome.
 
 source(here::here("src/03-generalists-specialists-genome-with-gff/defaults.R"))
 
@@ -14,15 +14,16 @@ tar_option_set(packages = c("tidyverse","tarchetypes","jsonlite", "patchwork", "
 
 ### Targets results dir
 gen_spe_tar_dir <- "cache/01-r-generalist_specialist_genome_metadata"
+amr_dir         <- "cache/01-r-07-amr"
 
 ### Import results from other targets that were already analised
-#bgcs_by_genome    <- tar_read(name = bgcs_by_genome, store = gen_spe_tar_dir)
 genomes2find_BGCs <- tar_read(name = genomes2find_BGCs, store = gen_spe_tar_dir)
 generalist_genus  <- tar_read(name = generalist_genus, store = gen_spe_tar_dir)
 specialist_genus  <- tar_read(name = specialist_genus, store = gen_spe_tar_dir)
 genome_gff        <- tar_read(name = genome_gff, store = gen_spe_tar_dir)
 cds_by_genome     <- tar_read(name = cds_by_genome, store = gen_spe_tar_dir)
 genome_length     <- tar_read(name = genome_length, store = gen_spe_tar_dir)
+valid_amr         <- tar_read(name = valid_amr, store = amr_dir)
 
 library(future)
 library(future.callr)
@@ -38,8 +39,6 @@ list(
     import_bgcs,
     parse_antismash(list_bgcs_files),
     pattern = map(list_bgcs_files)
-    # ,
-    # deployment = "main"
   ),
   tar_target(
     bgcs_by_genome,
@@ -76,6 +75,53 @@ list(
   tar_target(
     bcgs_compare_means,
     bcgs_statistics(generalist_specialists_bgcs, bcgs_groups)
+  ),
+  tar_target(
+    genome_length2,
+    import_genome_length("cache/17-genome-lenght")
+  ),
+  tar_target(
+    paper_main_fig2,
+    plot_main_fig2_paper(generalist_specialists_bgcs, genomes2find_BGCs, cds_by_genome, genome_length, valid_amr)
+  ),
+  tar_target(
+    cds2permutate,
+    cds_to_plot(genomes2find_BGCs, cds_by_genome, genome_length)
+  ),
+  tar_target(
+    permutate_cds,
+    cds2permutate %>% 
+      filter(kingdom == "Bacteria") %>% 
+      permutation_test(y = "cds_n", x = "Group", n_iter = 10000)
+  ),
+  tar_target(
+    permutate_cds_norm,
+    cds2permutate %>% 
+      filter(kingdom == "Bacteria") %>% 
+      permutation_test(y = "cds_norm", x = "Group", n_iter = 10000)
+  ),
+  tar_target(
+    bcgs2permutate,
+    bgcs_df_paper(generalist_specialists_bgcs, genome_length)
+  ),
+  tar_target(
+    permutate_bcgs,
+    bcgs2permutate %>% 
+      filter(kingdom == "Bacteria") %>% 
+      permutation_test(y = "value", x = "Groups", n_iter = 10000)
+  ),
+  tar_target(
+    amr2permutate,
+    amr_df_paper(valid_amr, genomes2find_BGCs, genome_length)
+  ),
+  tar_target(
+    permutate_amr,
+    amr2permutate %>% 
+      filter(kingdom == "Bacteria") %>% 
+      permutation_test(y = "norm_amr", x = "Groups", n_iter = 10000)
+  ),
+  tar_target(
+    compare_bcgs_products,
+    compare_bcgs_products_bac_gen(generalist_specialists_bgcs, genome_length, bcgs_groups)
   )
 )
-

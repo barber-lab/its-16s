@@ -1,10 +1,5 @@
 library(tidyverse)
 
-# After ITS extraction, it was used the following command to extract the headers 
-# of extracted fastas:
-# grep ">" *.fasta > ../00-tmp/extracted_its_seqs_NAs_primers.txt
-# This way, each header correspond to a sequence.
-
 # ITS sequences after ITSx extraction
 its <- read_delim(file = "cache/00-tmp/extracted_its_seqs_NAs_primers.txt", 
                 col_names = F)
